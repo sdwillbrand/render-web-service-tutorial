@@ -1,0 +1,19 @@
+{
+  "name": "20240527-be-server-working-with-data-sdwillbrand",
+  "version": "1.0.0",
+  "description": "The purpose of this exercise is to practice basic file I/O and Express endpoints.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --watch --env-file=.env server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "uuid": "^9.0.1"
+  }
+}

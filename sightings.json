@@ -1,0 +1,4877 @@
+[
+  {
+    "date": "2021-06-02",
+    "species": "Bradypus tridactylus",
+    "id": "074b3e3f-1247-423d-8a8b-fda1f84f2bc9"
+  },
+  {
+    "date": "2017-02-22",
+    "species": "Cordylus giganteus",
+    "id": "a7caa695-774b-44b9-90b2-b4df9a6f0697"
+  },
+  {
+    "date": "2021-07-10",
+    "species": "Kobus defassa",
+    "id": "86975d93-62b0-4228-940b-68d0ba0f926c"
+  },
+  {
+    "date": "2019-05-27",
+    "species": "Canis aureus",
+    "id": "45fc3e1d-87d4-4f1b-8b62-54cd39b536ac"
+  },
+  {
+    "date": "2015-05-22",
+    "species": "Oncorhynchus nerka",
+    "id": "a140e7ac-46b9-4da0-ba8f-6e56e9b6ff27"
+  },
+  {
+    "date": "2020-08-03",
+    "species": "Phalaropus fulicarius",
+    "id": "5ca5687b-07f7-4c2a-b162-333193077b8e"
+  },
+  {
+    "date": "2021-06-05",
+    "species": "Vulpes chama",
+    "id": "af68e524-d200-4f68-8026-3e74908998e4"
+  },
+  {
+    "date": "2020-11-14",
+    "species": "Tamandua tetradactyla",
+    "id": "9dc224df-e57c-433e-8c97-f673b851281b"
+  },
+  {
+    "date": "2020-12-11",
+    "species": "Chlidonias leucopterus",
+    "id": "2972c802-327f-43db-808f-7e818e18a6ab"
+  },
+  {
+    "date": "2017-01-26",
+    "species": "Trichechus inunguis",
+    "id": "795b08b1-4d5f-4abd-a579-a2f8560ee5e3"
+  },
+  {
+    "date": "2015-11-19",
+    "species": "Pavo cristatus",
+    "id": "a19ea99a-6418-4eaa-b21f-80aa6b58d58a"
+  },
+  {
+    "date": "2021-09-24",
+    "species": "Zenaida asiatica",
+    "id": "3cdd4cfd-fa34-4e89-9bc9-377dfff7868a"
+  },
+  {
+    "date": "2022-11-16",
+    "species": "Grus antigone",
+    "id": "65cfd2e2-ad4d-4281-946d-12718dd8b8eb"
+  },
+  {
+    "date": "2021-12-17",
+    "species": "Petaurus breviceps",
+    "id": "014255aa-ef62-4a7b-8ca2-277e3548c103"
+  },
+  {
+    "date": "2018-07-22",
+    "species": "Rangifer tarandus",
+    "id": "711733e6-2829-4100-b395-136da0f03443"
+  },
+  {
+    "date": "2020-02-04",
+    "species": "Ninox superciliaris",
+    "id": "102ba6d8-e3ab-4673-94db-8bde45871139"
+  },
+  {
+    "date": "2022-06-08",
+    "species": "Falco mexicanus",
+    "id": "3cb8a9d6-d477-43df-88e7-046b59e4bab7"
+  },
+  {
+    "date": "2019-12-16",
+    "species": "unavailable",
+    "id": "26a71071-dc65-43fd-b80d-68acf57fecdd"
+  },
+  {
+    "date": "2016-06-11",
+    "species": "Laniaurius atrococcineus",
+    "id": "ab156401-e84a-4cce-be2a-b1533d5df907"
+  },
+  {
+    "date": "2022-09-03",
+    "species": "Lasiorhinus latifrons",
+    "id": "199871df-0698-4bb3-9acf-4615fdf8b022"
+  },
+  {
+    "date": "2017-08-10",
+    "species": "Canis dingo",
+    "id": "654f35e6-8bb6-44b0-83ad-b684cffedd63"
+  },
+  {
+    "date": "2019-06-28",
+    "species": "Varanus sp.",
+    "id": "85331691-6dd9-4de4-a564-3ef43737ba14"
+  },
+  {
+    "date": "2019-01-18",
+    "species": "Ardea cinerea",
+    "id": "698a4ee7-83d9-4779-88b4-a4974d23fc20"
+  },
+  {
+    "date": "2019-01-03",
+    "species": "Tockus flavirostris",
+    "id": "0b9fba82-0132-4749-b2cb-e70b8f237552"
+  },
+  {
+    "date": "2018-11-04",
+    "species": "Ardea golieth",
+    "id": "0665c439-5766-499e-9c6d-0b93684d7668"
+  },
+  {
+    "date": "2018-07-24",
+    "species": "Manouria emys",
+    "id": "797a7d8b-e179-4a56-8665-82d883f29999"
+  },
+  {
+    "date": "2016-07-04",
+    "species": "Mellivora capensis",
+    "id": "422b8244-12db-487f-b1c9-5a10fae22598"
+  },
+  {
+    "date": "2018-01-30",
+    "species": "Erethizon dorsatum",
+    "id": "d4bc251b-3f52-4401-8dd4-682a559659ea"
+  },
+  {
+    "date": "2016-08-24",
+    "species": "Genetta genetta",
+    "id": "2ee55fdc-e1fb-4924-90e9-99633872b178"
+  },
+  {
+    "date": "2022-01-29",
+    "species": "Terathopius ecaudatus",
+    "id": "3c4759eb-f36f-4596-91ed-6c5d54d38af7"
+  },
+  {
+    "date": "2015-11-26",
+    "species": "Geochelone radiata",
+    "id": "c04dcb84-90de-4e77-92ab-913f16a8550c"
+  },
+  {
+    "date": "2022-10-04",
+    "species": "Bradypus tridactylus",
+    "id": "11cc6979-d3db-476e-83e0-33f243dbe93c"
+  },
+  {
+    "date": "2023-03-30",
+    "species": "Passer domesticus",
+    "id": "71fef749-dbbe-4e14-a232-1a14d05717cd"
+  },
+  {
+    "date": "2018-09-11",
+    "species": "Gymnorhina tibicen",
+    "id": "087597cb-c7e3-47fe-86a3-1b0a0d629bd8"
+  },
+  {
+    "date": "2022-09-24",
+    "species": "Tiliqua scincoides",
+    "id": "9d92b11c-d479-48f7-af2d-d04804d09381"
+  },
+  {
+    "date": "2020-05-21",
+    "species": "Grus canadensis",
+    "id": "989d0c0a-5b7b-4743-824c-ad704f19f05c"
+  },
+  {
+    "date": "2015-10-18",
+    "species": "Sitta canadensis",
+    "id": "69933150-b1ce-42de-adb8-e44b24ba265d"
+  },
+  {
+    "date": "2016-01-13",
+    "species": "Gopherus agassizii",
+    "id": "5bc42769-78ad-4d20-9501-61ab309fea03"
+  },
+  {
+    "date": "2016-09-13",
+    "species": "Notechis semmiannulatus",
+    "id": "46d7f451-c83b-401c-9d99-40cf930dd837"
+  },
+  {
+    "date": "2021-09-14",
+    "species": "Procyon lotor",
+    "id": "e53cec15-a782-45ea-8e88-c1b7955a3b84"
+  },
+  {
+    "date": "2021-03-24",
+    "species": "Halcyon smyrnesis",
+    "id": "362f35c2-b49f-4ce5-b895-68f9561fbda4"
+  },
+  {
+    "date": "2019-06-10",
+    "species": "Colobus guerza",
+    "id": "cea4e2e9-2d0d-4810-979e-3a06ca4e05aa"
+  },
+  {
+    "date": "2017-04-28",
+    "species": "Fregata magnificans",
+    "id": "e71484e7-a928-47e1-ab75-a8cc53069a6c"
+  },
+  {
+    "date": "2020-11-08",
+    "species": "Tayassu pecari",
+    "id": "df7adab1-fd2b-4ce8-85a1-7bc308eb5cdf"
+  },
+  {
+    "date": "2023-04-04",
+    "species": "Aonyx capensis",
+    "id": "1fe3b1b3-e0f4-4ce7-ad13-711592a6420b"
+  },
+  {
+    "date": "2018-05-28",
+    "species": "Proteles cristatus",
+    "id": "ef122345-dfd9-4202-8c16-3f7b449c813c"
+  },
+  {
+    "date": "2017-04-10",
+    "species": "Mirounga angustirostris",
+    "id": "c227034a-996c-4898-946c-fffa1de14bca"
+  },
+  {
+    "date": "2020-09-16",
+    "species": "Upupa epops",
+    "id": "66cb7b47-88d8-4e62-89d2-655ec9028d5c"
+  },
+  {
+    "date": "2021-10-09",
+    "species": "Lama glama",
+    "id": "d0159da8-5d20-4874-831e-0be529b3e755"
+  },
+  {
+    "date": "2021-05-27",
+    "species": "Ardea golieth",
+    "id": "614b7994-af1b-4459-ab85-d4ab0dc1193a"
+  },
+  {
+    "date": "2020-04-06",
+    "species": "Phascogale calura",
+    "id": "dc9423ad-f40a-4ad9-997f-5f43dca79e1e"
+  },
+  {
+    "date": "2022-02-12",
+    "species": "unavailable",
+    "id": "24b03986-47b0-42a7-861f-249db447cc53"
+  },
+  {
+    "date": "2015-06-28",
+    "species": "Cyrtodactylus louisiadensis",
+    "id": "6d456267-7147-473d-aaa4-478090099d19"
+  },
+  {
+    "date": "2019-09-22",
+    "species": "Chauna torquata",
+    "id": "525b477b-4987-422d-a644-f696058a410c"
+  },
+  {
+    "date": "2018-02-18",
+    "species": "Tamiasciurus hudsonicus",
+    "id": "4303d57c-1725-4114-924e-4cb519356702"
+  },
+  {
+    "date": "2022-02-07",
+    "species": "Aonyx capensis",
+    "id": "62abcb30-0e93-4337-b93e-acf0ecf4419b"
+  },
+  {
+    "date": "2019-12-18",
+    "species": "Macropus agilis",
+    "id": "fbd98bd8-2fc7-4a2d-87b1-64ad8ff96086"
+  },
+  {
+    "date": "2016-03-23",
+    "species": "Ara ararauna",
+    "id": "71e6aa4c-d526-48e3-bd17-bc803f919948"
+  },
+  {
+    "date": "2019-12-14",
+    "species": "Bubalus arnee",
+    "id": "e1e28966-913a-4e90-9ce8-ef7ff7f382b9"
+  },
+  {
+    "date": "2018-03-25",
+    "species": "Gazella granti",
+    "id": "05430521-3502-447e-8d60-0fcbf4f1a627"
+  },
+  {
+    "date": "2016-05-21",
+    "species": "Phalaropus lobatus",
+    "id": "078bd4fd-f77d-4585-bc6e-aac95416c76a"
+  },
+  {
+    "date": "2015-05-21",
+    "species": "Ctenophorus ornatus",
+    "id": "66ac3e3c-d0b6-4eb5-a799-1e97c4e1c2c9"
+  },
+  {
+    "date": "2020-04-19",
+    "species": "Manouria emys",
+    "id": "33a76276-6907-4fe6-9c5a-becfe7ad5089"
+  },
+  {
+    "date": "2015-03-30",
+    "species": "Phoenicopterus ruber",
+    "id": "556a9424-5c4a-4ac9-9b96-b4701100fc1a"
+  },
+  {
+    "date": "2019-02-09",
+    "species": "Ovis dalli stonei",
+    "id": "ea7b0128-bb76-4989-af17-07fc1e593779"
+  },
+  {
+    "date": "2021-02-15",
+    "species": "Spingiforma Squarepantsii",
+    "id": "44bf874a-a78b-4bfc-8920-014e85216dd5"
+  },
+  {
+    "date": "2017-06-20",
+    "species": "Ardea golieth",
+    "id": "0c6ee845-0073-4f43-b0b6-48dabfbd1458"
+  },
+  {
+    "date": "2018-02-26",
+    "species": "Macaca mulatta",
+    "id": "51b38567-9aa0-44c7-a9b1-9798e46b3b07"
+  },
+  {
+    "date": "2015-12-25",
+    "species": "Corvus albus",
+    "id": "9ba6d6da-2844-4c5e-a35c-e5ecc8d97ae9"
+  },
+  {
+    "date": "2017-02-23",
+    "species": "Tockus flavirostris",
+    "id": "255dd11a-4aaf-48eb-9a3b-1846dd4f6d51"
+  },
+  {
+    "date": "2022-09-17",
+    "species": "Potorous tridactylus",
+    "id": "0d5c5094-3cf1-41b6-95a9-d815d6e9a8e1"
+  },
+  {
+    "date": "2017-10-21",
+    "species": "Tockus flavirostris",
+    "id": "d99847b9-479b-4bac-85ed-bcfa7904e981"
+  },
+  {
+    "date": "2022-09-01",
+    "species": "Ceratotherium simum",
+    "id": "8cfdd69e-23d0-4bd5-a193-5e7b4e5d4e79"
+  },
+  {
+    "date": "2015-12-17",
+    "species": "Felis concolor",
+    "id": "d31d90fa-3ad2-4f0e-ba01-4bfca5f1a5f1"
+  },
+  {
+    "date": "2022-01-02",
+    "species": "Cervus duvauceli",
+    "id": "2812bd5f-4ff1-4ffd-891d-22eed8edc9f9"
+  },
+  {
+    "date": "2015-12-18",
+    "species": "Spermophilus richardsonii",
+    "id": "fe798976-0bda-427c-bf31-76ddfec59c49"
+  },
+  {
+    "date": "2015-10-09",
+    "species": "Damaliscus lunatus",
+    "id": "31aa9b77-567c-417f-9c01-e097ed47482d"
+  },
+  {
+    "date": "2016-09-28",
+    "species": "Taurotagus oryx",
+    "id": "e30f12aa-f1ff-4687-be1c-f300a5f7662b"
+  },
+  {
+    "date": "2015-07-24",
+    "species": "Priodontes maximus",
+    "id": "947398ac-ea25-4587-a61c-73c93322abdb"
+  },
+  {
+    "date": "2019-01-15",
+    "species": "Manouria emys",
+    "id": "5aa2c29b-6cd7-4e5b-88e9-019aaba07a3e"
+  },
+  {
+    "date": "2015-08-10",
+    "species": "Dasyurus maculatus",
+    "id": "6cd3d260-f076-4ab1-a022-7b77bbd14fd8"
+  },
+  {
+    "date": "2022-03-19",
+    "species": "Pelecans onocratalus",
+    "id": "e9916fcf-fd28-49c4-8aba-86eace636252"
+  },
+  {
+    "date": "2020-08-14",
+    "species": "Speotyte cuniculata",
+    "id": "3f2326c1-7d19-45b3-8be5-0c3ca9d74ec3"
+  },
+  {
+    "date": "2019-05-31",
+    "species": "Oryx gazella",
+    "id": "8d7ceef6-53c9-4ed6-864b-5a350ac3dc34"
+  },
+  {
+    "date": "2020-08-31",
+    "species": "Castor canadensis",
+    "id": "228088ee-d9c4-401a-b448-4e0e122b8646"
+  },
+  {
+    "date": "2018-08-20",
+    "species": "Sus scrofa",
+    "id": "d9cf0937-8506-4a57-89ad-4ff9cd213481"
+  },
+  {
+    "date": "2016-02-12",
+    "species": "Felis serval",
+    "id": "add937bf-8a0d-4a19-b9c5-c807d4fe31f7"
+  },
+  {
+    "date": "2015-09-08",
+    "species": "Globicephala melas",
+    "id": "3f6b4f3d-b0c6-42cc-9920-a9caaaf997bd"
+  },
+  {
+    "date": "2020-09-07",
+    "species": "Cervus canadensis",
+    "id": "9f0c5871-3842-4788-9cac-f9efd17e75dd"
+  },
+  {
+    "date": "2016-10-03",
+    "species": "Camelus dromedarius",
+    "id": "860f738a-b359-4a57-858b-327d208a911b"
+  },
+  {
+    "date": "2022-06-24",
+    "species": "Tamandua tetradactyla",
+    "id": "8f064a5a-3b56-4eff-ba94-e94f3a3847ae"
+  },
+  {
+    "date": "2019-09-29",
+    "species": "Tapirus terrestris",
+    "id": "55a5d9ac-616b-4794-986b-529ddb824b31"
+  },
+  {
+    "date": "2022-05-24",
+    "species": "Tadorna tadorna",
+    "id": "96ee4234-7242-4638-ad19-816c98a90921"
+  },
+  {
+    "date": "2021-09-10",
+    "species": "Ninox superciliaris",
+    "id": "3780d768-7c1e-4e74-b1c6-c936642fcd33"
+  },
+  {
+    "date": "2019-01-28",
+    "species": "Streptopelia senegalensis",
+    "id": "462d3617-adb8-4505-8318-0e80b66aacf0"
+  },
+  {
+    "date": "2017-02-08",
+    "species": "Pycnonotus nigricans",
+    "id": "1461e793-ecab-45fc-b9c2-4657c0f73c13"
+  },
+  {
+    "date": "2016-12-20",
+    "species": "Heloderma horridum",
+    "id": "b23aee23-0ba0-403a-8576-439dda97309d"
+  },
+  {
+    "date": "2015-07-26",
+    "species": "Pinguis unicornis",
+    "id": "55beb9b3-0156-47fe-9167-e825bbc2a08b"
+  },
+  {
+    "date": "2019-05-24",
+    "species": "Ara chloroptera",
+    "id": "784b5fab-07dd-4d43-9f72-0328472e1aef"
+  },
+  {
+    "date": "2019-02-03",
+    "species": "Physignathus cocincinus",
+    "id": "d169bf30-7e94-49ca-9203-074b209cb52a"
+  },
+  {
+    "date": "2019-03-23",
+    "species": "Herpestes javanicus",
+    "id": "aada398f-6734-4b4b-88b1-cc75b9584178"
+  },
+  {
+    "date": "2022-10-26",
+    "species": "Echimys chrysurus",
+    "id": "3fd7d39c-9f79-4708-a9c6-42b09a3fbbc1"
+  },
+  {
+    "date": "2021-11-08",
+    "species": "Corvus albicollis",
+    "id": "1f2470b4-33d2-45dc-8be0-b4fee7b2a434"
+  },
+  {
+    "date": "2021-09-13",
+    "species": "unavailable",
+    "id": "52f97eba-90e1-46f1-960f-85e42eece941"
+  },
+  {
+    "date": "2021-05-14",
+    "species": "Acridotheres tristis",
+    "id": "240798b7-3a4f-4874-809d-db92034e4fce"
+  },
+  {
+    "date": "2016-03-28",
+    "species": "Choloepus hoffmani",
+    "id": "f90db899-e447-4c82-aec5-8e36cf7dbe1e"
+  },
+  {
+    "date": "2016-07-01",
+    "species": "Aonyx cinerea",
+    "id": "db0b42ea-47ea-494e-81f0-12a15a6dada9"
+  },
+  {
+    "date": "2019-04-02",
+    "species": "Crocodylus niloticus",
+    "id": "a2115d34-afd6-4f62-8f14-a5e7d0c0ae0a"
+  },
+  {
+    "date": "2016-07-04",
+    "species": "Loxodonta africana",
+    "id": "33a83277-5320-42fb-9d8d-d1350c108b37"
+  },
+  {
+    "date": "2022-06-07",
+    "species": "Macropus giganteus",
+    "id": "48601fc9-8738-441e-897b-8b2eb17c120b"
+  },
+  {
+    "date": "2022-08-15",
+    "species": "Papilio canadensis",
+    "id": "d657f48d-c275-49bf-b164-eff06c783c85"
+  },
+  {
+    "date": "2018-05-28",
+    "species": "Falco mexicanus",
+    "id": "7a1f196f-5fdf-40d7-884b-d36131a5da8a"
+  },
+  {
+    "date": "2018-07-16",
+    "species": "Chauna torquata",
+    "id": "e431c2a0-1a5d-4e8a-94a0-2c7526771cfb"
+  },
+  {
+    "date": "2021-11-08",
+    "species": "Halcyon smyrnesis",
+    "id": "cc0daa19-8066-4390-9de3-17abc70348e1"
+  },
+  {
+    "date": "2017-07-27",
+    "species": "Kobus leche robertsi",
+    "id": "46a4ddad-6327-4d56-8e66-a4a106b55b45"
+  },
+  {
+    "date": "2015-10-24",
+    "species": "Psophia viridis",
+    "id": "363bb7a2-79f9-4fb7-b8d6-97c0cb13d24f"
+  },
+  {
+    "date": "2016-03-09",
+    "species": "Cathartes aura",
+    "id": "6692cb2b-d58d-4b17-b2e6-ff09b50a0c3d"
+  },
+  {
+    "date": "2016-09-09",
+    "species": "Merops nubicus",
+    "id": "6b1ca136-48d1-40b3-8b06-8b45bdd3f7af"
+  },
+  {
+    "date": "2017-10-31",
+    "species": "Dicrostonyx groenlandicus",
+    "id": "4dd8db02-5e86-498d-ae00-b54eaa9e32a2"
+  },
+  {
+    "date": "2015-11-29",
+    "species": "Uraeginthus granatina",
+    "id": "ba5817a8-4b2d-4e1b-96f0-7d4f0e90611a"
+  },
+  {
+    "date": "2018-09-27",
+    "species": "Carduelis pinus",
+    "id": "8ede3e5f-6f23-4740-98b4-fadf5cbb3cb8"
+  },
+  {
+    "date": "2016-10-10",
+    "species": "Odocoileus hemionus",
+    "id": "4ce2d444-9357-4f31-b4ce-89e9046faa85"
+  },
+  {
+    "date": "2017-05-16",
+    "species": "Martes americana",
+    "id": "8971cf05-ffaf-4367-9401-f868fbc508ed"
+  },
+  {
+    "date": "2023-01-16",
+    "species": "Giraffe camelopardalis",
+    "id": "0ff83bc8-39a5-4df9-98aa-2257c9d44ed1"
+  },
+  {
+    "date": "2019-01-12",
+    "species": "Paroaria gularis",
+    "id": "c733780e-62af-4afb-93e8-b580b2a9f454"
+  },
+  {
+    "date": "2021-10-25",
+    "species": "Phoenicopterus ruber",
+    "id": "a3b767d1-e908-47d0-b0aa-06dbe03bb556"
+  },
+  {
+    "date": "2020-01-23",
+    "species": "Bucephala clangula",
+    "id": "9c753198-968d-4935-8af5-dc741957111f"
+  },
+  {
+    "date": "2015-06-17",
+    "species": "Haliaetus vocifer",
+    "id": "8b2c0e4e-7467-4856-b903-01f9215455df"
+  },
+  {
+    "date": "2022-04-21",
+    "species": "Geochelone radiata",
+    "id": "f6cfb35e-56a2-4758-9774-185e46fc9a5b"
+  },
+  {
+    "date": "2017-05-11",
+    "species": "Tiliqua scincoides",
+    "id": "8ebfef83-6ecc-4ce4-a12f-7f722769ac7f"
+  },
+  {
+    "date": "2021-01-07",
+    "species": "Oxybelis fulgidus",
+    "id": "129cbccb-e137-464f-b402-fad542cac6e1"
+  },
+  {
+    "date": "2018-08-01",
+    "species": "Corallus hortulanus cooki",
+    "id": "aa61541a-4838-405d-b1c9-521f4d049567"
+  },
+  {
+    "date": "2018-04-26",
+    "species": "Bucephala clangula",
+    "id": "6f61f918-b0d7-4ab2-87c9-3cf795a59f1e"
+  },
+  {
+    "date": "2017-03-07",
+    "species": "Lamprotornis nitens",
+    "id": "986909d8-49ee-49eb-a36c-79fe1d7add5f"
+  },
+  {
+    "date": "2015-06-04",
+    "species": "Dasypus septemcincus",
+    "id": "8c8af6ae-eb42-4603-8ea7-cdc0461af10d"
+  },
+  {
+    "date": "2022-05-11",
+    "species": "Alces alces",
+    "id": "1f26f231-5705-499b-b7d2-73ca0eb47a1f"
+  },
+  {
+    "date": "2015-06-28",
+    "species": "Neophron percnopterus",
+    "id": "6fb90df9-b9d0-423d-933f-639b9040b3a2"
+  },
+  {
+    "date": "2020-04-29",
+    "species": "Phoca vitulina",
+    "id": "6b37259a-5045-405a-bf99-69003a5a1585"
+  },
+  {
+    "date": "2018-12-18",
+    "species": "Alligator mississippiensis",
+    "id": "f8faef61-1b40-4980-b250-b1dcd3416255"
+  },
+  {
+    "date": "2022-02-25",
+    "species": "Bubalus arnee",
+    "id": "75365965-67b0-4701-bc85-c769fcd72d75"
+  },
+  {
+    "date": "2020-11-06",
+    "species": "Anastomus oscitans",
+    "id": "be0ee371-03cf-466d-a740-6650dd06265b"
+  },
+  {
+    "date": "2019-08-09",
+    "species": "Dipodomys deserti",
+    "id": "10fdb878-617c-475e-8db8-d0ff72c22a28"
+  },
+  {
+    "date": "2022-08-07",
+    "species": "Ardea cinerea",
+    "id": "1056ec78-f403-4202-9a6d-bafa62859371"
+  },
+  {
+    "date": "2019-02-06",
+    "species": "Corallus hortulanus cooki",
+    "id": "62bd360b-bfdb-4240-9e89-7f41097f67ee"
+  },
+  {
+    "date": "2021-10-28",
+    "species": "Sula nebouxii",
+    "id": "ce0b9a9f-dbac-44e8-a232-958c1a262b89"
+  },
+  {
+    "date": "2020-10-17",
+    "species": "Mazama americana",
+    "id": "001287b1-e76a-4255-a909-9f977d54c0a3"
+  },
+  {
+    "date": "2021-11-20",
+    "species": "Herpestes javanicus",
+    "id": "1a8ec653-ad67-4896-9020-d4d405632e89"
+  },
+  {
+    "date": "2015-08-30",
+    "species": "Oncorhynchus nerka",
+    "id": "153d702b-a9f5-4468-91db-5a67dea6bf69"
+  },
+  {
+    "date": "2020-10-19",
+    "species": "Sula nebouxii",
+    "id": "fd320a0b-7eb9-4db5-9952-4fb73df7a6a6"
+  },
+  {
+    "date": "2021-12-25",
+    "species": "Salvadora hexalepis",
+    "id": "88382642-c649-4b9c-838f-360939e3bbde"
+  },
+  {
+    "date": "2017-06-08",
+    "species": "Grus rubicundus",
+    "id": "6712c02e-8c35-42f9-868c-f020455ecf5a"
+  },
+  {
+    "date": "2019-05-02",
+    "species": "Gorilla gorilla",
+    "id": "64550286-2f08-4d1d-b2df-02bb56c935b5"
+  },
+  {
+    "date": "2015-11-20",
+    "species": "Naja haje",
+    "id": "15cab413-d69f-4d87-948d-a957d500aa50"
+  },
+  {
+    "date": "2021-06-12",
+    "species": "Vulpes chama",
+    "id": "7f7cf144-30e4-44b0-8dae-4c0273cd3001"
+  },
+  {
+    "date": "2019-02-28",
+    "species": "Orcinus orca",
+    "id": "464579b2-e008-44ca-adb0-2366a7168992"
+  },
+  {
+    "date": "2018-05-27",
+    "species": "Thalasseus maximus",
+    "id": "f61087ac-411f-46bc-9ccd-7e115f04d51b"
+  },
+  {
+    "date": "2023-04-29",
+    "species": "Chordeiles minor",
+    "id": "4038f246-08e4-4d47-9211-e24df3b46c3c"
+  },
+  {
+    "date": "2015-03-02",
+    "species": "Spermophilus armatus",
+    "id": "77d481c8-8029-45f9-8f69-1c931a44275f"
+  },
+  {
+    "date": "2018-08-12",
+    "species": "Macaca mulatta",
+    "id": "07b77b05-e138-4cfe-85d3-ba062d8589f5"
+  },
+  {
+    "date": "2016-04-16",
+    "species": "Libellula quadrimaculata",
+    "id": "dfcb5d47-0ee5-4301-906a-a688a415dd7f"
+  },
+  {
+    "date": "2015-07-14",
+    "species": "Eutamias minimus",
+    "id": "8e8433c4-a0a3-4e74-adad-9f3a7442490a"
+  },
+  {
+    "date": "2018-09-01",
+    "species": "Felis silvestris lybica",
+    "id": "02cbd59e-115e-4a7c-b996-1ad85b359e2d"
+  },
+  {
+    "date": "2018-09-08",
+    "species": "Felis wiedi or Leopardus weidi",
+    "id": "8e6f4443-17c6-4f60-8664-2fbb81e0be23"
+  },
+  {
+    "date": "2016-08-19",
+    "species": "Taurotagus oryx",
+    "id": "64961680-fcd8-4dac-94bf-a798c0f51845"
+  },
+  {
+    "date": "2020-10-15",
+    "species": "Nasua nasua",
+    "id": "76801eb7-aa37-4a38-860c-b562a523b789"
+  },
+  {
+    "date": "2021-06-11",
+    "species": "Anthropoides paradisea",
+    "id": "9f284b20-aa4f-4cc1-8661-af49eac047e3"
+  },
+  {
+    "date": "2019-01-02",
+    "species": "Larus novaehollandiae",
+    "id": "fe99a58e-bc16-4ead-aa79-74e001c547a7"
+  },
+  {
+    "date": "2019-10-31",
+    "species": "Manouria emys",
+    "id": "41f0c44b-f5c4-405a-abad-a6c897e365f2"
+  },
+  {
+    "date": "2021-01-04",
+    "species": "Dasypus septemcincus",
+    "id": "02851528-0ff2-4ad8-a8eb-e0e2eb901cac"
+  },
+  {
+    "date": "2022-12-20",
+    "species": "Lamprotornis nitens",
+    "id": "534915d9-7929-423e-9842-b4541708cbac"
+  },
+  {
+    "date": "2021-04-18",
+    "species": "Francolinus coqui",
+    "id": "b565517e-6901-4caa-a671-898acd5032ab"
+  },
+  {
+    "date": "2020-04-23",
+    "species": "Priodontes maximus",
+    "id": "75794d16-ea91-4d9f-a55d-a8035d92219a"
+  },
+  {
+    "date": "2021-08-03",
+    "species": "Theropithecus gelada",
+    "id": "dbcb2a2e-56cb-428d-a8ff-89b29dbed9f1"
+  },
+  {
+    "date": "2022-09-07",
+    "species": "Psophia viridis",
+    "id": "c4700f91-690b-46d0-bf6c-564baf13e208"
+  },
+  {
+    "date": "2019-06-08",
+    "species": "Felis caracal",
+    "id": "65b2a432-45d4-45c8-a037-a9415a580776"
+  },
+  {
+    "date": "2020-02-28",
+    "species": "Larus novaehollandiae",
+    "id": "58513f1c-3281-4a0b-b267-cc0f1c8cbdc2"
+  },
+  {
+    "date": "2022-12-03",
+    "species": "Varanus sp.",
+    "id": "d236d69e-7085-4394-b257-13a3ec672ca6"
+  },
+  {
+    "date": "2022-03-01",
+    "species": "Climacteris melanura",
+    "id": "14165ddf-1d95-4093-805b-c5fc042ae4dd"
+  },
+  {
+    "date": "2022-11-05",
+    "species": "Lasiodora parahybana",
+    "id": "400523cd-5fbd-443f-8201-d991663211fc"
+  },
+  {
+    "date": "2016-10-07",
+    "species": "Genetta genetta",
+    "id": "82b21280-8e9e-42c9-a032-aec2b532fd61"
+  },
+  {
+    "date": "2020-12-01",
+    "species": "Libellula quadrimaculata",
+    "id": "13421174-336f-41e9-a079-4f559e65b70a"
+  },
+  {
+    "date": "2016-10-06",
+    "species": "Phoenicopterus chilensis",
+    "id": "fb55ebf4-57cb-465e-8e22-7b92aa25247a"
+  },
+  {
+    "date": "2022-02-27",
+    "species": "Mellivora capensis",
+    "id": "4b3f0c0c-08a7-476e-9223-8240d21e3b6d"
+  },
+  {
+    "date": "2016-05-12",
+    "species": "Genetta genetta",
+    "id": "282a4f14-c623-4bff-b8bd-869cb185183a"
+  },
+  {
+    "date": "2019-08-15",
+    "species": "Macropus giganteus",
+    "id": "f0cec70e-9cd9-4b5f-9716-4665750fa633"
+  },
+  {
+    "date": "2017-07-31",
+    "species": "Threskionis aethiopicus",
+    "id": "df10b743-785c-4a9e-bed0-fdcce67bb770"
+  },
+  {
+    "date": "2021-09-22",
+    "species": "Papio cynocephalus",
+    "id": "30be3fab-001b-45c0-a731-100d00a05851"
+  },
+  {
+    "date": "2015-11-01",
+    "species": "Redunca redunca",
+    "id": "e7ef6905-d823-40f1-8566-1ea940ad51fc"
+  },
+  {
+    "date": "2016-04-15",
+    "species": "Ara ararauna",
+    "id": "4b7348e7-1add-42e9-8986-e5147fbd407a"
+  },
+  {
+    "date": "2018-08-12",
+    "species": "Eumetopias jubatus",
+    "id": "2b2e25e0-2b30-40c8-949b-e9593e28f940"
+  },
+  {
+    "date": "2021-09-24",
+    "species": "Colobus guerza",
+    "id": "9134c234-1e6c-4b24-8800-76f9883efee5"
+  },
+  {
+    "date": "2015-02-10",
+    "species": "Phylurus milli",
+    "id": "748d1f1f-a533-4eff-b4fc-276bf89aa740"
+  },
+  {
+    "date": "2017-03-19",
+    "species": "Balearica pavonina",
+    "id": "ba7079e9-ca5d-45bc-a464-5595f908505a"
+  },
+  {
+    "date": "2020-10-26",
+    "species": "Castor canadensis",
+    "id": "71a6ac98-91b1-48fd-b3aa-9fe86244af74"
+  },
+  {
+    "date": "2018-03-27",
+    "species": "Turtur chalcospilos",
+    "id": "5ea68bb2-bdb0-414e-a644-c57bd0224230"
+  },
+  {
+    "date": "2018-08-04",
+    "species": "Fulica cristata",
+    "id": "6118bf0e-3af4-4e82-befb-71dc9697b17f"
+  },
+  {
+    "date": "2019-01-30",
+    "species": "Recurvirostra avosetta",
+    "id": "d91dc1e2-e21f-41ae-8a62-9a9bdeed39a2"
+  },
+  {
+    "date": "2016-12-19",
+    "species": "Bucorvus leadbeateri",
+    "id": "f7079fe0-e612-41e3-8204-f03e8e0ac73b"
+  },
+  {
+    "date": "2019-10-05",
+    "species": "Megaderma spasma",
+    "id": "29290e0f-cc6b-4587-9258-d35793cb5169"
+  },
+  {
+    "date": "2018-06-06",
+    "species": "Hystrix cristata",
+    "id": "13a531e4-b40b-457b-9045-5ae3024ec66e"
+  },
+  {
+    "date": "2021-09-19",
+    "species": "Papilio canadensis",
+    "id": "266ea93a-7e01-4bfc-a760-db6ec645a782"
+  },
+  {
+    "date": "2017-04-17",
+    "species": "Sula nebouxii",
+    "id": "e8ae263e-cd37-4718-8b6b-99815a66592e"
+  },
+  {
+    "date": "2021-12-24",
+    "species": "Gazella thompsonii",
+    "id": "5837b34a-770f-4e6f-bbcf-2ce2a5182fa6"
+  },
+  {
+    "date": "2016-11-29",
+    "species": "Falco mexicanus",
+    "id": "ba8f2f52-988c-49ad-813f-f60c9ab9b184"
+  },
+  {
+    "date": "2019-10-23",
+    "species": "Fratercula corniculata",
+    "id": "772efa9b-8340-4dab-8c09-7721942c8aec"
+  },
+  {
+    "date": "2015-07-27",
+    "species": "Eubalaena australis",
+    "id": "5ba763a7-30c6-4d29-ac33-7f8fd96f6b59"
+  },
+  {
+    "date": "2017-02-17",
+    "species": "Macropus agilis",
+    "id": "2f29b83a-a254-463c-bb9b-d3f639893ddf"
+  },
+  {
+    "date": "2020-09-21",
+    "species": "Vulpes vulpes",
+    "id": "94bcb5d7-c205-4a5a-bc50-7af9d2c41424"
+  },
+  {
+    "date": "2020-07-21",
+    "species": "Pterocles gutturalis",
+    "id": "316edb9a-5544-4587-a605-dc385e3ee770"
+  },
+  {
+    "date": "2022-07-21",
+    "species": "Amphibolurus barbatus",
+    "id": "2805755d-9f3c-4f17-ba3a-488aaece33df"
+  },
+  {
+    "date": "2020-10-05",
+    "species": "Zosterops pallidus",
+    "id": "2e122bc6-bd81-4de9-9a2a-aa0b3d5c3472"
+  },
+  {
+    "date": "2019-06-10",
+    "species": "Agkistrodon piscivorus",
+    "id": "7a61edf7-389d-4c69-b5af-610e7f3380df"
+  },
+  {
+    "date": "2016-08-02",
+    "species": "Canis lupus baileyi",
+    "id": "bd037325-f2fc-4163-996c-b835a17b7b66"
+  },
+  {
+    "date": "2021-10-14",
+    "species": "Paraxerus cepapi",
+    "id": "94decc6c-6ff9-453c-9e13-e79708ca0a93"
+  },
+  {
+    "date": "2015-11-25",
+    "species": "Gabianus pacificus",
+    "id": "436ebbfd-d078-4823-9075-b53c691199e5"
+  },
+  {
+    "date": "2018-12-28",
+    "species": "Nesomimus trifasciatus",
+    "id": "9a496f28-147b-4078-877d-9d80afe95c2e"
+  },
+  {
+    "date": "2016-01-23",
+    "species": "Plocepasser mahali",
+    "id": "254bf55d-9272-4fd3-aa96-7d1584898bb8"
+  },
+  {
+    "date": "2021-05-01",
+    "species": "Lutra canadensis",
+    "id": "87a19413-5358-4f39-b350-cc31f2c6a5cd"
+  },
+  {
+    "date": "2015-05-12",
+    "species": "Eutamias minimus",
+    "id": "51442ef3-c03e-417e-9d9f-61ed8903570b"
+  },
+  {
+    "date": "2020-09-01",
+    "species": "Tursiops truncatus",
+    "id": "083b0ef3-39f9-4d96-8637-295af66318eb"
+  },
+  {
+    "date": "2020-06-26",
+    "species": "Geochelone radiata",
+    "id": "8bb09a1e-e138-4baa-b01f-e60a479d9b2c"
+  },
+  {
+    "date": "2023-04-24",
+    "species": "Meleagris gallopavo",
+    "id": "6158cd22-f2a6-4f4c-897b-3fc25d88c3b4"
+  },
+  {
+    "date": "2018-05-01",
+    "species": "Sarkidornis melanotos",
+    "id": "9179f196-f7a4-4075-8452-3a7e6fc6813b"
+  },
+  {
+    "date": "2018-10-05",
+    "species": "Zonotrichia capensis",
+    "id": "40d7c1a3-f63d-4b04-999c-a9ecc95ade08"
+  },
+  {
+    "date": "2021-07-10",
+    "species": "Sciurus vulgaris",
+    "id": "a66673f4-cff3-41ef-bdde-6829e2046099"
+  },
+  {
+    "date": "2020-08-18",
+    "species": "Procyon cancrivorus",
+    "id": "f691268a-95bd-4955-9789-3eb0fa44b54b"
+  },
+  {
+    "date": "2016-02-05",
+    "species": "Trachyphonus vaillantii",
+    "id": "ab0f6016-3310-435d-93f3-0ae85d6527a6"
+  },
+  {
+    "date": "2020-08-03",
+    "species": "Coendou prehensilis",
+    "id": "15bcd69a-6eae-4c69-b9cf-4b41aaf75945"
+  },
+  {
+    "date": "2016-01-07",
+    "species": "Priodontes maximus",
+    "id": "e64550f9-3da9-4a61-ac51-45d72c0eb512"
+  },
+  {
+    "date": "2022-07-19",
+    "species": "Grus rubicundus",
+    "id": "b00ecfc6-1d3a-4767-b96c-ce6d8d20f9cc"
+  },
+  {
+    "date": "2022-12-23",
+    "species": "Nasua narica",
+    "id": "00067eb7-69d4-420b-8368-fae298c21ec3"
+  },
+  {
+    "date": "2022-04-14",
+    "species": "Canis mesomelas",
+    "id": "00730534-3f46-436f-87ff-aa74503afc07"
+  },
+  {
+    "date": "2020-12-03",
+    "species": "Psophia viridis",
+    "id": "02a5c7d9-afce-4166-8baa-552a7656da55"
+  },
+  {
+    "date": "2020-01-25",
+    "species": "Procyon lotor",
+    "id": "14b9b053-b9fb-4371-a589-b65791032a2d"
+  },
+  {
+    "date": "2016-05-13",
+    "species": "Eira barbata",
+    "id": "3aac89a3-0302-4723-b8a5-e98e2619e924"
+  },
+  {
+    "date": "2021-03-31",
+    "species": "Psophia viridis",
+    "id": "81b29e9d-c8c9-4dee-8094-45fb8fa9d4ba"
+  },
+  {
+    "date": "2021-11-05",
+    "species": "Thalasseus maximus",
+    "id": "440aa74a-9321-4c12-a457-cd7b8f8c4f2d"
+  },
+  {
+    "date": "2015-08-04",
+    "species": "Cervus canadensis",
+    "id": "35d7df55-4727-420a-80a5-c58d3738ff70"
+  },
+  {
+    "date": "2020-10-12",
+    "species": "Connochaetus taurinus",
+    "id": "622158aa-3e7a-4fed-896d-29c5476a26fa"
+  },
+  {
+    "date": "2017-05-31",
+    "species": "Bassariscus astutus",
+    "id": "21381072-93c1-4df5-8103-dddc76b32d32"
+  },
+  {
+    "date": "2022-01-27",
+    "species": "Felis wiedi or Leopardus weidi",
+    "id": "2d9e10fe-ab72-442a-90ca-0b0610fc7af8"
+  },
+  {
+    "date": "2016-10-07",
+    "species": "Anas punctata",
+    "id": "e54bf7d6-a4d6-45fc-a7fc-821750aef5bc"
+  },
+  {
+    "date": "2020-04-01",
+    "species": "Pan troglodytes",
+    "id": "3b51af6f-e2b1-43d6-8e4d-85bd78a39121"
+  },
+  {
+    "date": "2016-09-05",
+    "species": "Chionis alba",
+    "id": "b4af4b22-4c08-4d15-92de-bd6287100d98"
+  },
+  {
+    "date": "2016-09-01",
+    "species": "Genetta genetta",
+    "id": "509727cc-ffdc-4435-b354-c352f10c529d"
+  },
+  {
+    "date": "2016-04-15",
+    "species": "Crax sp.",
+    "id": "d4c64ce2-34d0-4724-8165-2fc21b4114c4"
+  },
+  {
+    "date": "2015-05-22",
+    "species": "Hippopotamus amphibius",
+    "id": "5df4f4a3-b52a-4ec1-a910-e24658bcfdf2"
+  },
+  {
+    "date": "2021-05-28",
+    "species": "Odocoilenaus virginianus",
+    "id": "b17c1c77-95aa-4531-adca-589702d21677"
+  },
+  {
+    "date": "2021-02-08",
+    "species": "Canis lupus",
+    "id": "c0f2294e-01b6-4f64-b77b-124f93487b8b"
+  },
+  {
+    "date": "2020-12-23",
+    "species": "Geochelone elegans",
+    "id": "48ebe030-3a05-4819-9c97-b96f5441efef"
+  },
+  {
+    "date": "2016-05-09",
+    "species": "Streptopelia decipiens",
+    "id": "4ebacf7b-fd80-44f2-9ded-7fa939442a35"
+  },
+  {
+    "date": "2016-02-24",
+    "species": "Panthera leo persica",
+    "id": "a1837934-d97d-4626-aa8a-1fe0e47442a9"
+  },
+  {
+    "date": "2017-08-05",
+    "species": "Spizaetus coronatus",
+    "id": "1e867c1c-475e-4e69-9abc-c29d36078a06"
+  },
+  {
+    "date": "2017-05-09",
+    "species": "Rhea americana",
+    "id": "0db96fe6-5714-4f20-a09c-462b49167edf"
+  },
+  {
+    "date": "2017-11-21",
+    "species": "Dromaeus novaehollandiae",
+    "id": "fe3984fe-fb13-454f-ada3-03b46f7a6b81"
+  },
+  {
+    "date": "2017-03-15",
+    "species": "Isoodon obesulus",
+    "id": "4397db40-426b-4c9a-afb4-776db23fc9af"
+  },
+  {
+    "date": "2016-02-12",
+    "species": "Felis rufus",
+    "id": "0eaa95d4-7e7b-46a2-adca-438aff13f7fa"
+  },
+  {
+    "date": "2017-01-13",
+    "species": "Certotrichas paena",
+    "id": "2bab4a23-47d4-4866-913b-b47757dd9ee6"
+  },
+  {
+    "date": "2022-05-21",
+    "species": "Bubo virginianus",
+    "id": "63be3cbf-8445-434e-a2c3-103b820c0337"
+  },
+  {
+    "date": "2021-03-27",
+    "species": "Sterna paradisaea",
+    "id": "001cfb54-56f7-49a0-a689-d138f1498aa6"
+  },
+  {
+    "date": "2015-05-07",
+    "species": "Ovis dalli stonei",
+    "id": "cf1915b3-4511-4966-8454-2b90760ff0d5"
+  },
+  {
+    "date": "2019-12-18",
+    "species": "unavailable",
+    "id": "1f8059a7-efb4-4a7c-9ba2-f57992e921fd"
+  },
+  {
+    "date": "2021-08-02",
+    "species": "Halcyon smyrnesis",
+    "id": "491b1a44-8b0e-4154-9f3a-96252e19f640"
+  },
+  {
+    "date": "2016-06-25",
+    "species": "Cacatua galerita",
+    "id": "d5c750bc-a93c-42a6-bdcb-e9e690f80f35"
+  },
+  {
+    "date": "2016-06-07",
+    "species": "Corvus albicollis",
+    "id": "45d2b876-44a1-413e-a716-d3d0f92573fe"
+  },
+  {
+    "date": "2021-02-13",
+    "species": "Eolophus roseicapillus",
+    "id": "d4e950ae-6841-4817-a7c9-79aa6627a9e6"
+  },
+  {
+    "date": "2015-11-08",
+    "species": "Bucephala clangula",
+    "id": "0d94872a-7c10-4191-be72-dc2609e986d3"
+  },
+  {
+    "date": "2017-02-18",
+    "species": "Sylvicapra grimma",
+    "id": "9398c4ce-f87a-4f07-93f5-2545c79c3df5"
+  },
+  {
+    "date": "2022-10-21",
+    "species": "Lamprotornis sp.",
+    "id": "fa2ef9c8-018f-472c-a26e-c611ca41272e"
+  },
+  {
+    "date": "2019-07-31",
+    "species": "Zalophus californicus",
+    "id": "84e2e9f1-1320-4949-89d9-bd43e950eb6e"
+  },
+  {
+    "date": "2016-08-25",
+    "species": "Physignathus cocincinus",
+    "id": "5ac2e5ce-6c8d-4c26-8902-bbd99e85c833"
+  },
+  {
+    "date": "2020-09-15",
+    "species": "Naja nivea",
+    "id": "ae167910-b1cc-4c89-afa2-93a3fbecd0d0"
+  },
+  {
+    "date": "2017-07-24",
+    "species": "Cebus albifrons",
+    "id": "bf8fa303-ef4f-431b-a11d-285c36bb99cb"
+  },
+  {
+    "date": "2022-08-25",
+    "species": "Pavo cristatus",
+    "id": "784d5d05-d32c-4918-8849-e33846454b8c"
+  },
+  {
+    "date": "2020-08-30",
+    "species": "Haematopus ater",
+    "id": "3ddffe7c-12db-437d-bd22-8bbb74d0c7ea"
+  },
+  {
+    "date": "2020-06-15",
+    "species": "Otaria flavescens",
+    "id": "9dd3fe7d-0fb9-45a0-ae4b-57a56c31567f"
+  },
+  {
+    "date": "2021-12-18",
+    "species": "Antidorcas marsupialis",
+    "id": "28d73959-019c-4dc6-8f64-33603df30d34"
+  },
+  {
+    "date": "2021-08-08",
+    "species": "Leipoa ocellata",
+    "id": "0c7037b4-942f-4de4-ad76-577bf3d35ae1"
+  },
+  {
+    "date": "2015-07-09",
+    "species": "Phascogale calura",
+    "id": "e655b181-566f-4607-9351-4565b2bbe758"
+  },
+  {
+    "date": "2015-08-16",
+    "species": "Spermophilus armatus",
+    "id": "afe8a17f-75f5-4888-a9dd-a31983a8a0e2"
+  },
+  {
+    "date": "2015-02-15",
+    "species": "Gyps bengalensis",
+    "id": "109e181a-0c0b-45a9-99aa-b369ff1e0909"
+  },
+  {
+    "date": "2015-11-12",
+    "species": "Bucorvus leadbeateri",
+    "id": "d8abde4f-88e7-42e4-abbf-ea2359deee9d"
+  },
+  {
+    "date": "2015-02-27",
+    "species": "Alcelaphus buselaphus cokii",
+    "id": "c3daa8a5-7ee1-4e0a-a334-b55d8713309f"
+  },
+  {
+    "date": "2015-03-01",
+    "species": "Ardea golieth",
+    "id": "392ad5a7-4fd6-4bda-b5cc-4f84b7e42ecd"
+  },
+  {
+    "date": "2021-08-18",
+    "species": "Phalacrocorax carbo",
+    "id": "033473df-8932-4ea6-bf40-7d2c4b10a497"
+  },
+  {
+    "date": "2015-12-16",
+    "species": "Vicugna vicugna",
+    "id": "775d4bfb-0cc8-4389-b239-9f705f501eda"
+  },
+  {
+    "date": "2016-05-12",
+    "species": "Actophilornis africanus",
+    "id": "65aa0f34-f7bd-4d9f-a948-576ffe94e959"
+  },
+  {
+    "date": "2018-05-14",
+    "species": "Seiurus aurocapillus",
+    "id": "36da481f-71c7-4e5c-8ece-2859587fc1b0"
+  },
+  {
+    "date": "2020-01-07",
+    "species": "Ardea cinerea",
+    "id": "70e9dea7-fb87-4da0-883c-9523fc8e314f"
+  },
+  {
+    "date": "2022-06-02",
+    "species": "Canis aureus",
+    "id": "62c4fd12-3c36-45e3-9c04-4aedc120b58c"
+  },
+  {
+    "date": "2019-02-23",
+    "species": "Phoca vitulina",
+    "id": "249f64a1-759c-47cf-9378-20147e6ed98b"
+  },
+  {
+    "date": "2022-01-25",
+    "species": "Coendou prehensilis",
+    "id": "d72a0273-4b33-4bd9-a819-e9010b4ec4e3"
+  },
+  {
+    "date": "2020-05-14",
+    "species": "Phasianus colchicus",
+    "id": "28b3c8a6-c23c-4ee9-93fa-53f968b19bda"
+  },
+  {
+    "date": "2016-01-01",
+    "species": "Vulpes cinereoargenteus",
+    "id": "0328a768-47e2-4e31-9f00-7b0634a4f7ae"
+  },
+  {
+    "date": "2019-06-04",
+    "species": "Caiman crocodilus",
+    "id": "17c2d50d-9def-4cbe-a826-bf2a6b2482eb"
+  },
+  {
+    "date": "2018-02-17",
+    "species": "Colobus guerza",
+    "id": "e49b7789-4715-4523-a1d1-7399c1541f11"
+  },
+  {
+    "date": "2016-07-13",
+    "species": "Eurocephalus anguitimens",
+    "id": "d374f2ca-8f02-4fce-b2b5-92b9b6c52e84"
+  },
+  {
+    "date": "2015-10-05",
+    "species": "Pycnonotus barbatus",
+    "id": "f955ee8d-2296-4260-a449-9f3b9e835b4f"
+  },
+  {
+    "date": "2017-05-16",
+    "species": "Ourebia ourebi",
+    "id": "af5a63ee-a5d0-4563-aa73-400aa325702c"
+  },
+  {
+    "date": "2023-03-12",
+    "species": "Podargus strigoides",
+    "id": "554bd5b6-e6ac-42ab-a834-fcfe9de167f8"
+  },
+  {
+    "date": "2019-05-12",
+    "species": "Lemur fulvus",
+    "id": "2bdf7733-8007-4518-a201-5eeaf347cf16"
+  },
+  {
+    "date": "2017-03-05",
+    "species": "Equus hemionus",
+    "id": "bbfc5dd6-9399-487f-9fab-41b4acd0a79f"
+  },
+  {
+    "date": "2020-01-13",
+    "species": "Tockus flavirostris",
+    "id": "64ce03dd-d5d0-43ea-b150-2b64fac6d0bf"
+  },
+  {
+    "date": "2021-08-07",
+    "species": "Cervus canadensis",
+    "id": "8967fa9f-c2b7-4bee-89bf-18d5f13471d2"
+  },
+  {
+    "date": "2015-12-21",
+    "species": "Centrocercus urophasianus",
+    "id": "1bccc311-72a9-4d00-9e0c-521b82381ee5"
+  },
+  {
+    "date": "2020-01-21",
+    "species": "Dendrocitta vagabunda",
+    "id": "8477c538-faf2-4e48-ad1f-6d2f1dba3c81"
+  },
+  {
+    "date": "2016-10-30",
+    "species": "Streptopelia senegalensis",
+    "id": "ebdef566-f11b-47b2-8f18-4c7357159dc2"
+  },
+  {
+    "date": "2019-12-29",
+    "species": "Phascolarctos cinereus",
+    "id": "7c8e3b56-04a9-488c-9b74-e3571cc642bb"
+  },
+  {
+    "date": "2017-02-04",
+    "species": "Mazama americana",
+    "id": "74b6c337-eaeb-4e3d-847d-d47bb964a239"
+  },
+  {
+    "date": "2019-01-30",
+    "species": "Carduelis pinus",
+    "id": "c7042cc1-d3f5-41cf-b809-706ed65b7133"
+  },
+  {
+    "date": "2022-03-18",
+    "species": "Tragelaphus scriptus",
+    "id": "9c8b3606-ba87-48c6-bc02-a916cafc271b"
+  },
+  {
+    "date": "2019-12-25",
+    "species": "Pterocles gutturalis",
+    "id": "4de6e667-0161-4143-bace-67cc56635885"
+  },
+  {
+    "date": "2020-08-26",
+    "species": "Diomedea irrorata",
+    "id": "a00219e1-0b11-4828-a80c-12b5988aa4b3"
+  },
+  {
+    "date": "2017-06-25",
+    "species": "Zalophus californicus",
+    "id": "d609b2a8-e809-4693-91ef-c5aca85597ac"
+  },
+  {
+    "date": "2021-11-21",
+    "species": "Aonyx capensis",
+    "id": "a8488a0f-2a32-4dba-8362-c516b43c41bc"
+  },
+  {
+    "date": "2022-02-09",
+    "species": "Marmota caligata",
+    "id": "f32a9133-8471-44bd-938d-b40fea1f64ad"
+  },
+  {
+    "date": "2018-05-17",
+    "species": "Choloepus hoffmani",
+    "id": "e41c0228-57e5-4202-8fd6-ec1ed74c489d"
+  },
+  {
+    "date": "2015-03-13",
+    "species": "Nycticorax nycticorax",
+    "id": "d4e829cf-5e9c-42cb-b418-5e8fe8ffb690"
+  },
+  {
+    "date": "2019-05-21",
+    "species": "Bubalornis niger",
+    "id": "23b147a1-91ef-4d91-a4fe-e18ca02a3709"
+  },
+  {
+    "date": "2019-05-29",
+    "species": "Colobus guerza",
+    "id": "4dd71c32-2b4b-486f-bdaf-f314be842e7e"
+  },
+  {
+    "date": "2021-09-10",
+    "species": "Dasyurus maculatus",
+    "id": "dd631c79-5ab2-4dca-adfa-fd41c377175b"
+  },
+  {
+    "date": "2016-10-09",
+    "species": "Nectarinia chalybea",
+    "id": "5ef30112-7513-4387-800e-744663b40ba6"
+  },
+  {
+    "date": "2020-12-02",
+    "species": "Orcinus orca",
+    "id": "fbfe2b27-f35f-4a2a-80c9-26f771fa4a69"
+  },
+  {
+    "date": "2018-10-23",
+    "species": "Phalacrocorax carbo",
+    "id": "f89202fd-7b1a-43bf-89b1-41452c26599e"
+  },
+  {
+    "date": "2018-08-30",
+    "species": "Theropithecus gelada",
+    "id": "ddb079c3-f370-4832-bf27-3885f5167087"
+  },
+  {
+    "date": "2022-12-15",
+    "species": "Tachyglossus aculeatus",
+    "id": "f098c5fc-7da1-44ff-b27c-a9a0532c6a94"
+  },
+  {
+    "date": "2015-03-30",
+    "species": "Melophus lathami",
+    "id": "82b73a51-fbaf-4d6d-bb4e-56dea04a41e9"
+  },
+  {
+    "date": "2021-10-15",
+    "species": "Eolophus roseicapillus",
+    "id": "18be62e0-6b41-48b3-bbdc-d2795074e4de"
+  },
+  {
+    "date": "2022-05-19",
+    "species": "Bubalornis niger",
+    "id": "5fbd8367-33c8-4894-baa5-9acfc0e54e25"
+  },
+  {
+    "date": "2020-08-08",
+    "species": "Dasypus septemcincus",
+    "id": "5166892b-9433-4710-937c-4f3de88e565b"
+  },
+  {
+    "date": "2015-08-21",
+    "species": "Anthropoides paradisea",
+    "id": "41dec7de-fd0a-426b-9458-b3763b365bc5"
+  },
+  {
+    "date": "2015-05-04",
+    "species": "Marmota caligata",
+    "id": "b06f3047-4476-4b97-8fee-1aa627c65f3a"
+  },
+  {
+    "date": "2021-04-25",
+    "species": "Ratufa indica",
+    "id": "8c56054b-0bf4-44f3-b677-6157588e2c42"
+  },
+  {
+    "date": "2018-04-26",
+    "species": "Pseudocheirus peregrinus",
+    "id": "107553b6-5688-46bd-a8af-bd4ff9a00101"
+  },
+  {
+    "date": "2018-01-29",
+    "species": "Phaethon aethereus",
+    "id": "d1871cce-4aee-43cb-ba03-1be3e5de2fa1"
+  },
+  {
+    "date": "2019-08-01",
+    "species": "Ciconia episcopus",
+    "id": "33d25def-3969-4423-a367-ddba66d6acee"
+  },
+  {
+    "date": "2019-08-19",
+    "species": "Corvus albicollis",
+    "id": "27f41ce0-bf06-4079-9897-4ee42aa3ee19"
+  },
+  {
+    "date": "2015-07-21",
+    "species": "Merops bullockoides",
+    "id": "d2b23dfb-484e-425a-add7-717ee7ae295c"
+  },
+  {
+    "date": "2021-04-10",
+    "species": "Balearica pavonina",
+    "id": "5e1554df-44ba-4738-870c-28eba1cfdbde"
+  },
+  {
+    "date": "2019-04-12",
+    "species": "Thalasseus maximus",
+    "id": "27ce9cd6-ee6c-4e79-b97e-e4f0dec19b1a"
+  },
+  {
+    "date": "2016-11-02",
+    "species": "Phalacrocorax varius",
+    "id": "0a41db82-d5fa-4ead-8666-7ea1848e854b"
+  },
+  {
+    "date": "2017-05-20",
+    "species": "Spheniscus magellanicus",
+    "id": "6d35754f-6fea-45ba-88ea-da4bcf96825f"
+  },
+  {
+    "date": "2020-09-23",
+    "species": "Macaca nemestrina",
+    "id": "0206d4d4-b39c-4b0a-9e32-9b99e2c7ccd7"
+  },
+  {
+    "date": "2021-05-27",
+    "species": "Crocodylus niloticus",
+    "id": "a7289d5e-81a0-4381-8061-ab36d3dc15f0"
+  },
+  {
+    "date": "2020-05-12",
+    "species": "Thylogale stigmatica",
+    "id": "2bd4ee12-d0c0-4ffd-97c0-8a7e3269bbd6"
+  },
+  {
+    "date": "2016-04-05",
+    "species": "Nasua narica",
+    "id": "cfcffc48-8303-4489-9412-03ec24c84924"
+  },
+  {
+    "date": "2016-04-05",
+    "species": "Ninox superciliaris",
+    "id": "fbf25eba-bdff-4ee9-993b-c681ac25b406"
+  },
+  {
+    "date": "2018-10-22",
+    "species": "Odocoileus hemionus",
+    "id": "e60ee366-b75a-4dfb-9003-4473126ce7b7"
+  },
+  {
+    "date": "2016-06-24",
+    "species": "Milvus migrans",
+    "id": "4c1fe281-7841-469a-88d7-4477f00b9d62"
+  },
+  {
+    "date": "2018-06-28",
+    "species": "Felis silvestris lybica",
+    "id": "18eb2632-99e5-490c-a215-ae788ad8bdfe"
+  },
+  {
+    "date": "2019-09-09",
+    "species": "Ciconia ciconia",
+    "id": "918b6fda-d2c3-43d3-ab41-a346ecb72135"
+  },
+  {
+    "date": "2016-02-23",
+    "species": "Connochaetus taurinus",
+    "id": "d4ec5a9a-f901-4306-a16d-803a40a5aafc"
+  },
+  {
+    "date": "2023-04-01",
+    "species": "Zenaida galapagoensis",
+    "id": "a92e3500-3674-49eb-8964-522627563b9e"
+  },
+  {
+    "date": "2019-06-03",
+    "species": "Dasypus novemcinctus",
+    "id": "eddd71df-52ee-4d0c-bada-f55eeec1e5b9"
+  },
+  {
+    "date": "2020-12-04",
+    "species": "Tauraco porphyrelophus",
+    "id": "739ec5f7-4e16-4e29-b5c2-924cab45011b"
+  },
+  {
+    "date": "2015-09-30",
+    "species": "Cercatetus concinnus",
+    "id": "3d81db88-0bdd-4115-95c0-f875535ba4c7"
+  },
+  {
+    "date": "2018-10-14",
+    "species": "Francolinus leucoscepus",
+    "id": "86231aff-3ed3-4aa8-9fac-153930eeb2fe"
+  },
+  {
+    "date": "2016-05-06",
+    "species": "Vanellus chilensis",
+    "id": "a4f7368e-d4b0-42c4-a6b4-6cd4f1700e36"
+  },
+  {
+    "date": "2018-10-07",
+    "species": "Psittacula krameri",
+    "id": "a4632b8e-3b5c-47c2-b70c-764cb8ff13a2"
+  },
+  {
+    "date": "2016-12-07",
+    "species": "Larus novaehollandiae",
+    "id": "d4150146-c9fe-4224-a5ed-c83a1cb95869"
+  },
+  {
+    "date": "2021-01-08",
+    "species": "unavailable",
+    "id": "cb730a56-4f08-4cfb-b7f8-2c4b30da36ef"
+  },
+  {
+    "date": "2020-07-12",
+    "species": "Odocoileus hemionus",
+    "id": "63b31946-ec86-470b-aa3c-43d8dcb14973"
+  },
+  {
+    "date": "2021-02-14",
+    "species": "Estrilda erythronotos",
+    "id": "c6914293-9693-401c-a8b5-25b3e8539df0"
+  },
+  {
+    "date": "2016-02-12",
+    "species": "Larus dominicanus",
+    "id": "8db342c5-b108-497c-aad4-2fcb6cb2682b"
+  },
+  {
+    "date": "2019-10-27",
+    "species": "Ursus arctos",
+    "id": "4607d701-1205-4d24-b0c8-3d9ada6ed4f7"
+  },
+  {
+    "date": "2020-04-27",
+    "species": "Madoqua kirkii",
+    "id": "6ec491f6-fb7c-47f3-9aa7-f165d3d902fc"
+  },
+  {
+    "date": "2015-10-09",
+    "species": "Cebus nigrivittatus",
+    "id": "0009b037-dbcb-422e-87f9-ee34a7bf9a48"
+  },
+  {
+    "date": "2018-02-15",
+    "species": "Theropithecus gelada",
+    "id": "73f20817-e747-4bd1-af1f-0502e61f9a3d"
+  },
+  {
+    "date": "2021-10-02",
+    "species": "Cereopsis novaehollandiae",
+    "id": "2dbd7eb4-f478-420f-bd79-f8a72501fc35"
+  },
+  {
+    "date": "2020-10-07",
+    "species": "Cervus canadensis",
+    "id": "3116df90-0b45-400a-a5c9-28876f9b50e3"
+  },
+  {
+    "date": "2016-12-20",
+    "species": "Nannopterum harrisi",
+    "id": "e78258eb-5e38-491d-898f-c345473b8ffb"
+  },
+  {
+    "date": "2015-11-10",
+    "species": "Mirounga angustirostris",
+    "id": "9b953697-e554-4322-b0c2-17c7be97f16b"
+  },
+  {
+    "date": "2019-03-14",
+    "species": "Morelia spilotes variegata",
+    "id": "aa8e2ad8-c7ea-4ad5-b71d-73bc9364cc5c"
+  },
+  {
+    "date": "2020-04-08",
+    "species": "Coluber constrictor",
+    "id": "9fa99f58-2cc4-4735-a60a-dd323fe6915d"
+  },
+  {
+    "date": "2019-01-22",
+    "species": "Phasianus colchicus",
+    "id": "5ffd892b-7407-4859-b065-efdfb1f0487c"
+  },
+  {
+    "date": "2019-06-13",
+    "species": "Ploceus intermedius",
+    "id": "2f7fd3d8-4679-4f97-9f59-797d7bddacc9"
+  },
+  {
+    "date": "2020-04-08",
+    "species": "Passer domesticus",
+    "id": "c35e7b8b-063f-4992-b3f7-afc8d55b50e3"
+  },
+  {
+    "date": "2016-11-18",
+    "species": "Columba palumbus",
+    "id": "c03b2313-2e2f-476c-a7d5-f8c9ec32c881"
+  },
+  {
+    "date": "2019-03-14",
+    "species": "Buteo jamaicensis",
+    "id": "c319ef45-e757-44a7-8516-34014a54d881"
+  },
+  {
+    "date": "2022-08-31",
+    "species": "unavailable",
+    "id": "e529aad0-6d47-428a-a9b5-224bd62612f0"
+  },
+  {
+    "date": "2022-09-07",
+    "species": "unavailable",
+    "id": "e5191f2a-3f08-4244-8f79-2860b676fdf6"
+  },
+  {
+    "date": "2020-05-12",
+    "species": "Macaca fuscata",
+    "id": "b2ff8b83-6624-4ec7-b0f1-c7359d41a8c5"
+  },
+  {
+    "date": "2022-06-21",
+    "species": "Eolophus roseicapillus",
+    "id": "4f0f0d6a-1cf3-408b-a11e-42ab92f20940"
+  },
+  {
+    "date": "2017-11-17",
+    "species": "Uraeginthus angolensis",
+    "id": "6d47637d-7891-415b-ba3c-6c52199f0dcd"
+  },
+  {
+    "date": "2019-03-24",
+    "species": "Eudyptula minor",
+    "id": "ed2a5c0d-71c3-43a8-849a-0c852963d3be"
+  },
+  {
+    "date": "2021-09-22",
+    "species": "Eubalaena australis",
+    "id": "80800542-df94-49e1-b9bc-e5dc7001d90e"
+  },
+  {
+    "date": "2015-06-08",
+    "species": "Sterna paradisaea",
+    "id": "0910eb8b-d11a-4bae-a4fb-85d78950ecc7"
+  },
+  {
+    "date": "2019-01-31",
+    "species": "Connochaetus taurinus",
+    "id": "1c187447-2e68-4bc3-aa33-cc253a6f8f3b"
+  },
+  {
+    "date": "2016-03-25",
+    "species": "Dasyurus viverrinus",
+    "id": "ffa129d5-8e96-4583-bc4c-08812241cf4d"
+  },
+  {
+    "date": "2020-12-09",
+    "species": "Herpestes javanicus",
+    "id": "d9b01e3d-749b-48a4-8aaa-56d3831620be"
+  },
+  {
+    "date": "2018-07-08",
+    "species": "Bubo virginianus",
+    "id": "b047825c-aa0a-431d-a9e3-b31bb246f6a2"
+  },
+  {
+    "date": "2018-03-21",
+    "species": "Eremophila alpestris",
+    "id": "96b98648-d2c3-4417-bf3b-736a816139c5"
+  },
+  {
+    "date": "2016-10-19",
+    "species": "Crotalus adamanteus",
+    "id": "d651cc04-59e2-4963-84b1-1c144cc39dc1"
+  },
+  {
+    "date": "2023-01-19",
+    "species": "Libellula quadrimaculata",
+    "id": "ed51d64d-03de-4390-8235-09880156d0c7"
+  },
+  {
+    "date": "2020-04-10",
+    "species": "Bos mutus",
+    "id": "6bcb67fa-e11a-4f15-81d9-54271e486b75"
+  },
+  {
+    "date": "2018-06-26",
+    "species": "Chloephaga melanoptera",
+    "id": "7e902a93-a47f-4f68-ad61-d933629c0747"
+  },
+  {
+    "date": "2021-09-22",
+    "species": "Macaca radiata",
+    "id": "dcae2c0e-66ff-463d-afe6-86e342b28953"
+  },
+  {
+    "date": "2023-03-27",
+    "species": "Ara ararauna",
+    "id": "e44f1d60-6535-4b67-aa6c-d14b182d7c92"
+  },
+  {
+    "date": "2016-06-27",
+    "species": "Hystrix cristata",
+    "id": "b1ddbedc-b6eb-4c4a-963d-f7252fdd91fd"
+  },
+  {
+    "date": "2020-01-01",
+    "species": "Ciconia episcopus",
+    "id": "e92014e3-d619-4538-acf8-f33b9bc7333b"
+  },
+  {
+    "date": "2022-01-23",
+    "species": "Cercopithecus aethiops",
+    "id": "d2fbe49f-b9db-44ac-a085-8f81b44412a9"
+  },
+  {
+    "date": "2017-04-25",
+    "species": "Psittacula krameri",
+    "id": "f9e253de-7f5c-46f8-bb2c-65d03cf727a6"
+  },
+  {
+    "date": "2022-03-06",
+    "species": "Bugeranus caruncalatus",
+    "id": "ce3ee5cb-658c-499f-9bc1-3323de91518a"
+  },
+  {
+    "date": "2016-01-04",
+    "species": "Catharacta skua",
+    "id": "677801de-c849-4dd5-970c-803e94cc129a"
+  },
+  {
+    "date": "2021-10-07",
+    "species": "Lama guanicoe",
+    "id": "0b6a5b9c-382c-4622-971f-537185a1ecea"
+  },
+  {
+    "date": "2020-01-22",
+    "species": "Microcebus murinus",
+    "id": "8331103c-7b69-4267-96a8-6c341b28a0a9"
+  },
+  {
+    "date": "2015-02-16",
+    "species": "Anthropoides paradisea",
+    "id": "78b3cb94-52a9-4609-bced-a8b8c0760531"
+  },
+  {
+    "date": "2020-06-13",
+    "species": "Acrobates pygmaeus",
+    "id": "762a9ab2-7eb5-4275-a150-72bbb50d5d07"
+  },
+  {
+    "date": "2018-02-06",
+    "species": "Felis yagouaroundi",
+    "id": "268f6267-ec84-4fbc-a6e2-116c616e7d63"
+  },
+  {
+    "date": "2017-04-08",
+    "species": "Merops nubicus",
+    "id": "89029f10-2470-49bf-9b8e-fc70c291ab2b"
+  },
+  {
+    "date": "2015-05-12",
+    "species": "Eubalaena australis",
+    "id": "16945189-809a-41c5-8aec-d3b90609eb3a"
+  },
+  {
+    "date": "2016-06-17",
+    "species": "Trachyphonus vaillantii",
+    "id": "b279901b-fc50-4fff-b8c4-dfb83363c739"
+  },
+  {
+    "date": "2022-12-05",
+    "species": "Pycnonotus nigricans",
+    "id": "7be0769d-bcd2-4738-b92f-341bd4e71489"
+  },
+  {
+    "date": "2015-05-18",
+    "species": "Perameles nasuta",
+    "id": "b92b8d7d-ceee-41c8-9836-10e980dca4b0"
+  },
+  {
+    "date": "2018-04-07",
+    "species": "Anthropoides paradisea",
+    "id": "cc428517-75a7-4ff5-8619-0b21fda32b41"
+  },
+  {
+    "date": "2023-03-05",
+    "species": "Milvago chimachima",
+    "id": "3e7df85f-4761-42a9-9c99-1411da2cc167"
+  },
+  {
+    "date": "2018-12-06",
+    "species": "Tragelaphus angasi",
+    "id": "d4ede0d5-739d-4c94-a280-6fe58f94fd12"
+  },
+  {
+    "date": "2021-10-27",
+    "species": "Sula dactylatra",
+    "id": "24214e43-3668-4cba-beba-15ea466c628f"
+  },
+  {
+    "date": "2018-11-18",
+    "species": "Ara ararauna",
+    "id": "cd61d2b9-2b88-40d9-90a2-ece33bff4a1f"
+  },
+  {
+    "date": "2021-08-27",
+    "species": "Gyps bengalensis",
+    "id": "079b4eb3-96c3-428c-a908-9f917921ac4a"
+  },
+  {
+    "date": "2019-11-15",
+    "species": "Alligator mississippiensis",
+    "id": "bcce9e2c-1c86-4b12-8fbe-e6eaf71c1831"
+  },
+  {
+    "date": "2019-08-01",
+    "species": "Phalacrocorax niger",
+    "id": "a469c386-a648-47b1-b865-5d69b508ef7c"
+  },
+  {
+    "date": "2019-01-09",
+    "species": "Anthropoides paradisea",
+    "id": "0256a444-dff7-420e-ba91-be7cba3bd0f3"
+  },
+  {
+    "date": "2016-12-16",
+    "species": "Bassariscus astutus",
+    "id": "d0eb1524-0405-4361-b017-97d7c958504f"
+  },
+  {
+    "date": "2019-02-08",
+    "species": "Anastomus oscitans",
+    "id": "8cd364cf-f437-4f18-a471-2388e117270d"
+  },
+  {
+    "date": "2022-05-30",
+    "species": "Actophilornis africanus",
+    "id": "397a9519-05e4-4678-ae3b-515208675f68"
+  },
+  {
+    "date": "2021-09-24",
+    "species": "Zosterops pallidus",
+    "id": "484494f8-4912-4cb3-a40f-f56cf75bc718"
+  },
+  {
+    "date": "2016-08-27",
+    "species": "Meleagris gallopavo",
+    "id": "1d5204a5-2fbb-443a-9d7e-eaef9d09859d"
+  },
+  {
+    "date": "2018-10-03",
+    "species": "Picoides pubescens",
+    "id": "b87dd4c0-279b-4e3b-a068-b86066295e33"
+  },
+  {
+    "date": "2022-10-08",
+    "species": "Pteronura brasiliensis",
+    "id": "5dd3fb83-d92e-48ef-96cb-206b4b479d91"
+  },
+  {
+    "date": "2022-12-10",
+    "species": "Oryx gazella callotis",
+    "id": "eb9e72e0-49bd-4495-8eb8-8110375161fb"
+  },
+  {
+    "date": "2016-12-16",
+    "species": "Butorides striatus",
+    "id": "a394897b-80ec-474c-8bbf-48de25b96827"
+  },
+  {
+    "date": "2017-03-22",
+    "species": "Leptoptilos crumeniferus",
+    "id": "2c7866dd-1850-4e42-8418-c36ddfd68cf9"
+  },
+  {
+    "date": "2018-09-21",
+    "species": "Ceratotherium simum",
+    "id": "dba2c7e9-217b-4d1a-9f7a-92ad7f9f3dce"
+  },
+  {
+    "date": "2022-06-28",
+    "species": "Lycosa godeffroyi",
+    "id": "0d8ee718-224b-47c0-9b23-04b0f6343618"
+  },
+  {
+    "date": "2022-05-02",
+    "species": "Panthera pardus",
+    "id": "4bfc6be9-3092-4130-8265-ff3d344a52f3"
+  },
+  {
+    "date": "2017-12-22",
+    "species": "Macropus agilis",
+    "id": "ba906f83-6bfc-45bc-91ed-46152ca05e6a"
+  },
+  {
+    "date": "2020-06-13",
+    "species": "Gyps fulvus",
+    "id": "5acacad3-3f21-447d-a211-3836c8bae205"
+  },
+  {
+    "date": "2019-01-07",
+    "species": "Stercorarius longicausus",
+    "id": "aab5f521-b437-4d4e-846d-e0caaa8bcff4"
+  },
+  {
+    "date": "2019-06-16",
+    "species": "Herpestes javanicus",
+    "id": "68e4c8c1-8363-41ae-8565-f6d8aa2fadbc"
+  },
+  {
+    "date": "2022-04-30",
+    "species": "Macropus rufogriseus",
+    "id": "601b9baa-7c0f-437c-acd2-10400379eda7"
+  },
+  {
+    "date": "2018-08-18",
+    "species": "Mazama gouazoubira",
+    "id": "d478b5d7-5071-42da-b075-0dc2acb0afe1"
+  },
+  {
+    "date": "2019-10-05",
+    "species": "Colobus guerza",
+    "id": "da544bff-70d2-4618-97dc-0c99bc42c2ec"
+  },
+  {
+    "date": "2021-02-28",
+    "species": "Pycnonotus nigricans",
+    "id": "896b2947-a6b2-4354-b5b7-f797f6d3a8ca"
+  },
+  {
+    "date": "2021-11-13",
+    "species": "Passer domesticus",
+    "id": "d4d92229-f712-4e6a-9c71-cfd104301024"
+  },
+  {
+    "date": "2020-03-07",
+    "species": "Felis silvestris lybica",
+    "id": "5c254ade-983b-49d1-97bd-80d96e91b240"
+  },
+  {
+    "date": "2022-12-05",
+    "species": "Hippotragus niger",
+    "id": "1b65a418-a378-41c5-bcfd-b9e3d3a2455a"
+  },
+  {
+    "date": "2015-02-19",
+    "species": "Leipoa ocellata",
+    "id": "20d8a39c-270c-4772-9e14-ff2f7204c5e0"
+  },
+  {
+    "date": "2015-05-09",
+    "species": "unavailable",
+    "id": "f471c302-374a-4770-9a43-10c0894c02d5"
+  },
+  {
+    "date": "2018-03-25",
+    "species": "Eremophila alpestris",
+    "id": "a10568b3-b172-4827-b43d-9b979debd9e5"
+  },
+  {
+    "date": "2016-12-22",
+    "species": "Ara macao",
+    "id": "ee014101-654d-4303-8fe1-25d1e74784e3"
+  },
+  {
+    "date": "2022-09-19",
+    "species": "Mirounga leonina",
+    "id": "a112969c-57f7-4957-b554-381dc8e9b233"
+  },
+  {
+    "date": "2021-06-05",
+    "species": "Antechinus flavipes",
+    "id": "a60a64de-a1f4-422d-8b7f-647d348ba291"
+  },
+  {
+    "date": "2016-06-25",
+    "species": "Diomedea irrorata",
+    "id": "8c1db089-10b6-45e5-a196-c038cb191207"
+  },
+  {
+    "date": "2021-03-10",
+    "species": "unavailable",
+    "id": "7225ac65-195a-4347-9ef1-850fa8317652"
+  },
+  {
+    "date": "2020-01-13",
+    "species": "Phalacrocorax brasilianus",
+    "id": "978e6327-0930-4530-bd95-b0c75cfadf4b"
+  },
+  {
+    "date": "2015-07-21",
+    "species": "Lepus townsendii",
+    "id": "e36e8399-0634-44db-91ce-8b52c893c086"
+  },
+  {
+    "date": "2022-02-04",
+    "species": "Vulpes vulpes",
+    "id": "f24422b4-043d-4e69-8136-940046d964bc"
+  },
+  {
+    "date": "2016-06-05",
+    "species": "Deroptyus accipitrinus",
+    "id": "9f164ced-d1b2-43d3-b255-f55e7317aa05"
+  },
+  {
+    "date": "2021-06-23",
+    "species": "Buteo jamaicensis",
+    "id": "fafe0fc1-7b41-4ab8-bd3c-e479f6b889d8"
+  },
+  {
+    "date": "2020-08-09",
+    "species": "Ceratotherium simum",
+    "id": "40d0020c-64ca-41ec-8967-a03f56c6a478"
+  },
+  {
+    "date": "2015-04-21",
+    "species": "Spheniscus mendiculus",
+    "id": "d320f63d-f94e-4fe9-a1c3-a1d80ee3b53e"
+  },
+  {
+    "date": "2022-05-08",
+    "species": "Melophus lathami",
+    "id": "bfcfa464-55bc-41ab-a7da-b02614d39fc3"
+  },
+  {
+    "date": "2017-07-04",
+    "species": "Uraeginthus granatina",
+    "id": "758fe0ad-6efc-4de3-be27-8ce75a9affea"
+  },
+  {
+    "date": "2022-03-19",
+    "species": "Toxostoma curvirostre",
+    "id": "58299ceb-a6f3-4e96-b8dd-563466086531"
+  },
+  {
+    "date": "2016-12-06",
+    "species": "Nyctanassa violacea",
+    "id": "810df260-fc4f-49a3-9262-085ced696a32"
+  },
+  {
+    "date": "2022-06-21",
+    "species": "Eumetopias jubatus",
+    "id": "a5176180-6d39-44ca-8cf6-2d534ec6cc8d"
+  },
+  {
+    "date": "2023-03-07",
+    "species": "Speothos vanaticus",
+    "id": "258baba6-577d-4b75-8dbc-ec61a91e4ef2"
+  },
+  {
+    "date": "2016-10-20",
+    "species": "Drymarchon corias couperi",
+    "id": "e55267a5-8d13-495f-ba5c-6ba070c63d03"
+  },
+  {
+    "date": "2022-01-02",
+    "species": "Larus dominicanus",
+    "id": "e1abb60b-e758-4de7-98ec-e9533900d3a1"
+  },
+  {
+    "date": "2022-03-02",
+    "species": "Phalaropus lobatus",
+    "id": "25a4e6f6-00a6-4790-9097-7fdc9f2c9519"
+  },
+  {
+    "date": "2016-07-06",
+    "species": "Ovis ammon",
+    "id": "3717ce52-5dcb-4f68-b372-bea682811e61"
+  },
+  {
+    "date": "2022-03-24",
+    "species": "Didelphis virginiana",
+    "id": "c620e4e8-d017-4a2e-a8be-4e4b6e7741a0"
+  },
+  {
+    "date": "2016-09-28",
+    "species": "Perameles nasuta",
+    "id": "64d80684-649f-47d8-b1c0-3c5b59fee300"
+  },
+  {
+    "date": "2021-01-12",
+    "species": "Procyon cancrivorus",
+    "id": "ebaac41a-3d25-438e-b1e9-b56bfee95306"
+  },
+  {
+    "date": "2022-09-29",
+    "species": "Lepilemur rufescens",
+    "id": "5acbe407-60ee-4945-b08a-cf6e0222253c"
+  },
+  {
+    "date": "2017-05-22",
+    "species": "Erinaceus frontalis",
+    "id": "2dc39a56-f7fc-424a-88f1-f2ee32402146"
+  },
+  {
+    "date": "2015-08-23",
+    "species": "Connochaetus taurinus",
+    "id": "2138fc79-9983-40b0-938f-9fca60824429"
+  },
+  {
+    "date": "2023-04-25",
+    "species": "Eremophila alpestris",
+    "id": "df0b4c26-f634-4c9a-8e88-0fcc0660cc81"
+  },
+  {
+    "date": "2016-03-02",
+    "species": "Carduelis pinus",
+    "id": "9841c056-626d-4b99-9b54-30ccf4814587"
+  },
+  {
+    "date": "2017-11-08",
+    "species": "Milvus migrans",
+    "id": "d0557583-c250-4e18-97c9-6b68b95863b8"
+  },
+  {
+    "date": "2019-09-22",
+    "species": "Sula dactylatra",
+    "id": "dbabf063-d38d-4d05-922b-eba5c0ca6560"
+  },
+  {
+    "date": "2023-03-10",
+    "species": "Salvadora hexalepis",
+    "id": "32714061-bd40-4504-ac71-1d5724151029"
+  },
+  {
+    "date": "2017-04-03",
+    "species": "Odocoileus hemionus",
+    "id": "33c13078-aeb3-42fc-85d9-d4c2b46ae630"
+  },
+  {
+    "date": "2020-10-31",
+    "species": "Ursus arctos",
+    "id": "600f6db3-279e-47f4-bcb7-9326b78d3101"
+  },
+  {
+    "date": "2016-05-04",
+    "species": "Eolophus roseicapillus",
+    "id": "55bb87ee-dd32-4961-b94b-113dc076c132"
+  },
+  {
+    "date": "2017-12-26",
+    "species": "Chelodina longicollis",
+    "id": "3869913c-7528-4d0a-836d-0cde2ca1c8f7"
+  },
+  {
+    "date": "2017-04-04",
+    "species": "Sylvilagus floridanus",
+    "id": "5fb608ab-77fc-46bc-bf10-d96c5a57b86d"
+  },
+  {
+    "date": "2016-09-08",
+    "species": "Cochlearius cochlearius",
+    "id": "f632cc1e-dcdd-48ef-a516-2f990d92a132"
+  },
+  {
+    "date": "2019-11-08",
+    "species": "Petaurus breviceps",
+    "id": "d2cf4e17-c104-4362-9066-be438aae4cdb"
+  },
+  {
+    "date": "2019-02-04",
+    "species": "Ninox superciliaris",
+    "id": "98a3b425-07b5-44e0-9b1d-4538e76249d7"
+  },
+  {
+    "date": "2016-09-17",
+    "species": "Lophoaetus occipitalis",
+    "id": "cfa9a499-8965-4d95-b3d6-abd2a62e8723"
+  },
+  {
+    "date": "2017-08-18",
+    "species": "Priodontes maximus",
+    "id": "80eb9493-ee16-4cd4-869b-bae393c9fbfc"
+  },
+  {
+    "date": "2020-11-30",
+    "species": "Anhinga rufa",
+    "id": "8a89e4ed-a65a-4b3e-accd-c997257a23dd"
+  },
+  {
+    "date": "2021-08-26",
+    "species": "unavailable",
+    "id": "c8ad0f19-11f1-4058-a80e-32aed7b79cce"
+  },
+  {
+    "date": "2016-02-29",
+    "species": "Macropus agilis",
+    "id": "9461fdd0-91e8-4a68-908c-61d216b689d7"
+  },
+  {
+    "date": "2019-11-25",
+    "species": "Aonyx capensis",
+    "id": "dac33409-dbb2-464b-9737-4676c9dd44a0"
+  },
+  {
+    "date": "2023-03-10",
+    "species": "Myrmecophaga tridactyla",
+    "id": "d98a9c5b-eda9-460d-b0a7-e2574c69c890"
+  },
+  {
+    "date": "2020-07-26",
+    "species": "Sceloporus magister",
+    "id": "f9ef9b10-33ce-416b-9092-0fc05d0b3f16"
+  },
+  {
+    "date": "2019-07-01",
+    "species": "unavailable",
+    "id": "9db72348-94c7-4278-ac6e-52e4fb657422"
+  },
+  {
+    "date": "2016-10-19",
+    "species": "Milvus migrans",
+    "id": "89a4905c-bca2-492d-bab1-65fdd865247c"
+  },
+  {
+    "date": "2021-06-13",
+    "species": "Zalophus californicus",
+    "id": "c965616b-3e87-48b6-a069-8984fcdde101"
+  },
+  {
+    "date": "2018-09-23",
+    "species": "Pteronura brasiliensis",
+    "id": "6e4c1e3c-9e56-49b8-90e5-01f39057033a"
+  },
+  {
+    "date": "2020-09-29",
+    "species": "Connochaetus taurinus",
+    "id": "ad217259-b75a-4c61-9ce9-a46460fe8dd0"
+  },
+  {
+    "date": "2022-07-08",
+    "species": "Theropithecus gelada",
+    "id": "cb161b00-c395-4b80-bccd-e8931f4bfa34"
+  },
+  {
+    "date": "2022-09-19",
+    "species": "Tauraco porphyrelophus",
+    "id": "66c109a3-e694-411c-83f8-6315457e5d75"
+  },
+  {
+    "date": "2016-03-03",
+    "species": "Potos flavus",
+    "id": "f9c4dc00-9cb1-4d73-af58-e0d008078dfe"
+  },
+  {
+    "date": "2023-04-26",
+    "species": "Ardea golieth",
+    "id": "a97a0b17-b03a-45e6-9d84-446022cb9605"
+  },
+  {
+    "date": "2022-05-21",
+    "species": "Chloephaga melanoptera",
+    "id": "2a90e16e-999d-4531-9929-881ebcdb6c8e"
+  },
+  {
+    "date": "2021-01-08",
+    "species": "Isoodon obesulus",
+    "id": "a951c8e9-46e7-4c3a-a620-16c134a85d60"
+  },
+  {
+    "date": "2021-10-01",
+    "species": "Ciconia ciconia",
+    "id": "7501448c-aab7-4847-8937-abaf2b14830a"
+  },
+  {
+    "date": "2017-08-18",
+    "species": "Oncorhynchus nerka",
+    "id": "8393a86e-c80e-4fe8-9cd9-58789f9dfb14"
+  },
+  {
+    "date": "2015-06-06",
+    "species": "Ciconia ciconia",
+    "id": "89ac2e47-f990-47b4-a5ef-0692306d945c"
+  },
+  {
+    "date": "2016-11-13",
+    "species": "Felis libyca",
+    "id": "a1194263-2337-4242-8a1d-43b635bf31d5"
+  },
+  {
+    "date": "2021-09-06",
+    "species": "Terathopius ecaudatus",
+    "id": "0bdf5d0c-d7c6-42f9-b349-b2b4aaae4af4"
+  },
+  {
+    "date": "2015-06-13",
+    "species": "unavailable",
+    "id": "59420489-89a0-4f22-8848-de35d231bba1"
+  },
+  {
+    "date": "2015-10-16",
+    "species": "Crotalus triseriatus",
+    "id": "4f6014a4-49f4-4b7f-84b9-97689498b074"
+  },
+  {
+    "date": "2018-10-17",
+    "species": "Myotis lucifugus",
+    "id": "43e0e0ff-0eaa-4743-936a-7bc35237b2b5"
+  },
+  {
+    "date": "2020-05-05",
+    "species": "Lemur catta",
+    "id": "eef75789-480d-4bf6-8bf0-25727043ff9d"
+  },
+  {
+    "date": "2020-03-30",
+    "species": "Tetracerus quadricornis",
+    "id": "755f2c29-0139-4aeb-80af-1cf4d5072a6c"
+  },
+  {
+    "date": "2020-04-24",
+    "species": "Propithecus verreauxi",
+    "id": "7db72248-8372-4999-9f4e-fcb65769faf9"
+  },
+  {
+    "date": "2018-09-17",
+    "species": "Mycteria ibis",
+    "id": "941d7e0d-2643-407a-8b31-1d91a8d5410c"
+  },
+  {
+    "date": "2020-10-06",
+    "species": "Panthera leo persica",
+    "id": "bfa06da2-3510-4fbc-87dd-0b7b6231aa46"
+  },
+  {
+    "date": "2017-01-14",
+    "species": "Myotis lucifugus",
+    "id": "0289b0f2-cfb5-4abb-a6c6-d3f397c90a6e"
+  },
+  {
+    "date": "2018-02-05",
+    "species": "Thalasseus maximus",
+    "id": "7f7611bb-14ff-4658-851f-017b82dd3733"
+  },
+  {
+    "date": "2020-11-14",
+    "species": "Neotis denhami",
+    "id": "7fb45083-f5a9-452b-a1b8-e1bc1490cc2e"
+  },
+  {
+    "date": "2016-07-08",
+    "species": "Spizaetus coronatus",
+    "id": "8b646e78-2d86-4ef3-9fb7-80acb8f766e3"
+  },
+  {
+    "date": "2021-12-19",
+    "species": "Cyrtodactylus louisiadensis",
+    "id": "0ad1bd1c-10bc-47a7-83f4-3aaa99e2b8e9"
+  },
+  {
+    "date": "2020-09-08",
+    "species": "Coluber constrictor",
+    "id": "6b0192a5-8d9c-4b7c-bbbb-3c3bc0c86523"
+  },
+  {
+    "date": "2017-03-14",
+    "species": "Lepus arcticus",
+    "id": "379362d9-b8dc-4610-9f3e-f0285faee78a"
+  },
+  {
+    "date": "2018-10-28",
+    "species": "Cynictis penicillata",
+    "id": "dfccd993-a19e-4441-8130-e4d5c11d17ba"
+  },
+  {
+    "date": "2021-06-11",
+    "species": "unavailable",
+    "id": "07852414-48b9-49f4-8b04-2997692ba8eb"
+  },
+  {
+    "date": "2015-08-15",
+    "species": "Phasianus colchicus",
+    "id": "5e231f7f-853c-49f4-bf75-e40b2765e0b4"
+  },
+  {
+    "date": "2021-12-10",
+    "species": "Zosterops pallidus",
+    "id": "c0a666bb-d492-4a5f-a1da-5b4866ab6dea"
+  },
+  {
+    "date": "2017-03-12",
+    "species": "Columba livia",
+    "id": "faf62117-7717-46db-88b2-56011f4bc492"
+  },
+  {
+    "date": "2021-02-09",
+    "species": "Microcavia australis",
+    "id": "7eade6b3-660e-4b10-8b89-2d51f8b898ab"
+  },
+  {
+    "date": "2015-10-04",
+    "species": "Sceloporus magister",
+    "id": "ddd3d3ce-ddd9-4ade-9ffe-9d17bea05c1a"
+  },
+  {
+    "date": "2022-11-18",
+    "species": "Upupa epops",
+    "id": "fdf87f89-be97-4aef-9544-1a98499f1020"
+  },
+  {
+    "date": "2017-11-01",
+    "species": "Cercopithecus aethiops",
+    "id": "0798854c-1e11-437d-9d8c-ccd882a3c893"
+  },
+  {
+    "date": "2018-01-26",
+    "species": "Lutra canadensis",
+    "id": "36b257bb-f2d6-4156-b2a5-3a62882e70cd"
+  },
+  {
+    "date": "2022-06-05",
+    "species": "Macropus agilis",
+    "id": "8519f421-9de5-41b8-b269-9600cc9fb2b4"
+  },
+  {
+    "date": "2019-06-29",
+    "species": "Phalaropus fulicarius",
+    "id": "c2b2f88e-cc74-4528-8eac-66e28c85b08e"
+  },
+  {
+    "date": "2016-11-27",
+    "species": "Nucifraga columbiana",
+    "id": "d49fd4df-aace-4cd7-a057-767b160e8542"
+  },
+  {
+    "date": "2022-09-01",
+    "species": "Trachyphonus vaillantii",
+    "id": "fb33fbbb-648f-44b1-acfa-d6f4f2d1f152"
+  },
+  {
+    "date": "2022-12-30",
+    "species": "Larus fuliginosus",
+    "id": "7fb4b844-ce27-4f93-a8fa-614c981eef8c"
+  },
+  {
+    "date": "2018-03-06",
+    "species": "Ramphastos tucanus",
+    "id": "36c823c9-f475-4f91-af42-7804e462992e"
+  },
+  {
+    "date": "2021-04-20",
+    "species": "Paraxerus cepapi",
+    "id": "97bdac61-dc53-4ccf-8124-b445c564cbab"
+  },
+  {
+    "date": "2017-03-31",
+    "species": "Gazella thompsonii",
+    "id": "d62efa79-cfad-4912-b6ea-ff1014728044"
+  },
+  {
+    "date": "2015-12-28",
+    "species": "Gyps bengalensis",
+    "id": "0a1f51f7-d08a-4a6e-91e3-e9788e9dce15"
+  },
+  {
+    "date": "2015-03-04",
+    "species": "Acridotheres tristis",
+    "id": "0084b5b5-7e6a-410b-bdbd-59be01799774"
+  },
+  {
+    "date": "2023-01-21",
+    "species": "Phasianus colchicus",
+    "id": "14b1a287-885a-4137-ab90-5119af3ac744"
+  },
+  {
+    "date": "2021-07-17",
+    "species": "Zonotrichia capensis",
+    "id": "6a498a98-186a-4691-8944-78bab6f1ab86"
+  },
+  {
+    "date": "2015-02-11",
+    "species": "Colaptes campestroides",
+    "id": "018c77ff-9dd0-45a7-857a-b7a02189176a"
+  },
+  {
+    "date": "2016-08-13",
+    "species": "Naja sp.",
+    "id": "931031de-9b49-4658-866e-d1b15dd0fe47"
+  },
+  {
+    "date": "2017-06-22",
+    "species": "Porphyrio porphyrio",
+    "id": "717c40f2-fa40-48d1-810f-f65803ca51f1"
+  },
+  {
+    "date": "2017-01-29",
+    "species": "Mazama americana",
+    "id": "e02361cf-310d-4437-a9ba-54e8c5961a59"
+  },
+  {
+    "date": "2019-02-04",
+    "species": "Pterocles gutturalis",
+    "id": "465e9637-8acf-495b-9272-13306110212e"
+  },
+  {
+    "date": "2017-05-16",
+    "species": "Lepus arcticus",
+    "id": "f8a34967-f9fd-430b-ad2f-53b8e53beac1"
+  },
+  {
+    "date": "2021-07-18",
+    "species": "Lepus arcticus",
+    "id": "45533e2a-46b9-4238-a9d3-57d139ebb1db"
+  },
+  {
+    "date": "2022-04-15",
+    "species": "Tachybaptus ruficollis",
+    "id": "a7da99a8-dc40-480b-9ce8-2ff29bcd99db"
+  },
+  {
+    "date": "2016-12-22",
+    "species": "Sterna paradisaea",
+    "id": "7719f7d8-492f-402d-a104-912fb7333135"
+  },
+  {
+    "date": "2016-09-14",
+    "species": "Ratufa indica",
+    "id": "bc268832-bd3a-4e54-ace1-e0efb2d78990"
+  },
+  {
+    "date": "2016-04-22",
+    "species": "Sagittarius serpentarius",
+    "id": "8c284bb6-1bf5-41f2-a14b-02136b9a543f"
+  },
+  {
+    "date": "2019-09-24",
+    "species": "Isoodon obesulus",
+    "id": "85722f61-e58f-4558-abec-543de070bb48"
+  },
+  {
+    "date": "2020-01-24",
+    "species": "Dasyurus viverrinus",
+    "id": "88f319ad-b7d2-418e-ba87-39a743acbec9"
+  },
+  {
+    "date": "2016-07-11",
+    "species": "Ammospermophilus nelsoni",
+    "id": "835daedb-a76f-43e7-885b-c29ade521cca"
+  },
+  {
+    "date": "2015-07-20",
+    "species": "Ara ararauna",
+    "id": "843b9e01-c9d8-4632-bda8-05abfd1743c7"
+  },
+  {
+    "date": "2020-08-05",
+    "species": "Grus canadensis",
+    "id": "9d33008b-3612-41ac-84f6-295c0d84121b"
+  },
+  {
+    "date": "2022-01-18",
+    "species": "Philetairus socius",
+    "id": "0ac70c29-8fa8-48c1-9925-1a5df3d3bc30"
+  },
+  {
+    "date": "2016-08-16",
+    "species": "Coluber constrictor foxii",
+    "id": "d396c25e-5889-4a62-a72e-cfac87005846"
+  },
+  {
+    "date": "2017-11-12",
+    "species": "Corvus albicollis",
+    "id": "d37055fe-e43c-4339-a036-43c109e63394"
+  },
+  {
+    "date": "2022-05-06",
+    "species": "Gyps fulvus",
+    "id": "dc4c8446-9f46-4e41-bb82-79fea554bc13"
+  },
+  {
+    "date": "2018-10-24",
+    "species": "Phalaropus fulicarius",
+    "id": "9f6e0c6c-3cc5-4640-87b3-bf81ed14f984"
+  },
+  {
+    "date": "2020-06-24",
+    "species": "Francolinus leucoscepus",
+    "id": "82b724e3-54b2-4304-9828-4fd1d046b110"
+  },
+  {
+    "date": "2017-02-07",
+    "species": "Geochelone elegans",
+    "id": "8bf087ae-d9c2-4fcf-a1b6-9fa8920de5c8"
+  },
+  {
+    "date": "2020-01-01",
+    "species": "Chelodina longicollis",
+    "id": "e5d9e944-49e7-4fbe-bef6-71be3701746d"
+  },
+  {
+    "date": "2019-08-16",
+    "species": "Amphibolurus barbatus",
+    "id": "16a9517a-efb5-46ee-bde2-f0007c5f8ff9"
+  },
+  {
+    "date": "2021-12-21",
+    "species": "Butorides striatus",
+    "id": "63afaaca-fd60-4ec3-97d6-1f46cb89b54f"
+  },
+  {
+    "date": "2020-11-29",
+    "species": "Chelodina longicollis",
+    "id": "e8e16e7e-d398-41a5-ad45-d42c80a37947"
+  },
+  {
+    "date": "2019-11-04",
+    "species": "Eudyptula minor",
+    "id": "883f8615-d506-4d94-8fc5-a406abe66e2b"
+  },
+  {
+    "date": "2020-10-12",
+    "species": "Bettongia penicillata",
+    "id": "46c37a77-f1fb-459b-abe4-da4cdb056623"
+  },
+  {
+    "date": "2016-02-02",
+    "species": "Cochlearius cochlearius",
+    "id": "512eedcf-8cbb-4ddc-8853-f721eb44b309"
+  },
+  {
+    "date": "2019-07-18",
+    "species": "Agkistrodon piscivorus",
+    "id": "1b86039f-188b-4133-b839-1a907ab7f6cb"
+  },
+  {
+    "date": "2018-03-18",
+    "species": "Snycerus caffer",
+    "id": "3b8868fd-f17d-4fb5-81d7-fa29864edd57"
+  },
+  {
+    "date": "2022-07-11",
+    "species": "Sylvicapra grimma",
+    "id": "834eaddc-5719-4e2f-bce0-1456443a96e3"
+  },
+  {
+    "date": "2017-03-04",
+    "species": "Canis aureus",
+    "id": "4f8e317c-5218-47aa-a033-7f957bf885ce"
+  },
+  {
+    "date": "2017-02-11",
+    "species": "Melursus ursinus",
+    "id": "a2d41d6a-8aa8-4274-8053-91bcd4da2641"
+  },
+  {
+    "date": "2016-08-09",
+    "species": "Merops bullockoides",
+    "id": "ff98a25f-f5f0-47e3-bbd3-eee79f044147"
+  },
+  {
+    "date": "2015-09-25",
+    "species": "Sylvicapra grimma",
+    "id": "b5f9a3a0-7a79-4a70-81a6-1cae6e1f439e"
+  },
+  {
+    "date": "2022-09-07",
+    "species": "Eolophus roseicapillus",
+    "id": "3d47e878-5fcc-4cc5-be6f-19aeb5608e4e"
+  },
+  {
+    "date": "2017-08-20",
+    "species": "Zosterops pallidus",
+    "id": "ccc1b456-0eec-4683-8bcc-41efadc29f29"
+  },
+  {
+    "date": "2015-12-10",
+    "species": "Epicrates cenchria maurus",
+    "id": "d8c71efc-c67e-4bfb-a5c6-5863ca3f3f71"
+  },
+  {
+    "date": "2020-10-06",
+    "species": "Boa constrictor mexicana",
+    "id": "e7033102-1fda-45e5-8752-86d08d4e3a71"
+  },
+  {
+    "date": "2019-02-08",
+    "species": "Lamprotornis nitens",
+    "id": "bbfdceac-2c07-4e8f-8a8b-1259c83fe8f0"
+  },
+  {
+    "date": "2018-08-29",
+    "species": "Ovis dalli stonei",
+    "id": "d0971035-5dec-4acb-8410-f341ff2f6986"
+  },
+  {
+    "date": "2016-06-28",
+    "species": "Ephipplorhynchus senegalensis",
+    "id": "a559022e-6ad0-4188-ac0d-d39a5db7544c"
+  },
+  {
+    "date": "2020-12-03",
+    "species": "Neophron percnopterus",
+    "id": "bf2a6d5b-6af5-497f-9c4b-24f7e1954887"
+  },
+  {
+    "date": "2019-09-02",
+    "species": "Carduelis uropygialis",
+    "id": "2f0a5af8-4533-4aec-8194-c0905c57aaf3"
+  },
+  {
+    "date": "2018-11-24",
+    "species": "Loris tardigratus",
+    "id": "4da3c965-d2ac-4969-a969-e708fd8e713a"
+  },
+  {
+    "date": "2018-02-26",
+    "species": "Mycteria leucocephala",
+    "id": "58a8f160-daa9-4801-9aaa-716d2086eabe"
+  },
+  {
+    "date": "2018-06-01",
+    "species": "Streptopelia senegalensis",
+    "id": "46f54dcd-7fd6-465c-8a41-411a68a5bf63"
+  },
+  {
+    "date": "2017-06-19",
+    "species": "Vanellus armatus",
+    "id": "628be32e-d480-464e-a6b3-85b6e7a78cdd"
+  },
+  {
+    "date": "2022-02-26",
+    "species": "Nasua nasua",
+    "id": "01fdd805-d6fc-4f67-9339-50ab6a47bd4c"
+  },
+  {
+    "date": "2016-11-07",
+    "species": "Cereopsis novaehollandiae",
+    "id": "444626f0-8c42-4532-a318-c650856e73c3"
+  },
+  {
+    "date": "2018-05-21",
+    "species": "Sarcorhamphus papa",
+    "id": "2601eaa1-0e50-414e-93e8-055bd7883fd8"
+  },
+  {
+    "date": "2022-06-07",
+    "species": "Phascolarctos cinereus",
+    "id": "1502363b-37c5-47e8-8fa5-336d69c5f98d"
+  },
+  {
+    "date": "2019-07-10",
+    "species": "Sarcophilus harrisii",
+    "id": "0aae20f9-7e45-4443-a82f-d18e744d65c0"
+  },
+  {
+    "date": "2022-08-11",
+    "species": "Neotis denhami",
+    "id": "416d27f5-ab78-4d46-8558-fb0a4e031ced"
+  },
+  {
+    "date": "2020-09-01",
+    "species": "Corvus albicollis",
+    "id": "89f2695c-f7f9-4d92-9b17-07767001680c"
+  },
+  {
+    "date": "2022-01-22",
+    "species": "Snycerus caffer",
+    "id": "1ef95ce8-f486-4d3c-81b2-a07d53b3a32d"
+  },
+  {
+    "date": "2020-10-20",
+    "species": "Alcelaphus buselaphus cokii",
+    "id": "7f6efc0b-1bb6-4f5a-8a34-e86cdeca62d1"
+  },
+  {
+    "date": "2015-06-14",
+    "species": "Bubo sp.",
+    "id": "d92a5590-293f-4190-b5e3-728b0bc8536e"
+  },
+  {
+    "date": "2022-11-20",
+    "species": "Isoodon obesulus",
+    "id": "2450cc03-8449-454d-a37c-93959dba5de7"
+  },
+  {
+    "date": "2018-12-04",
+    "species": "Salvadora hexalepis",
+    "id": "433f4c58-acad-4c3d-b046-d6c78a552193"
+  },
+  {
+    "date": "2017-03-23",
+    "species": "Podargus strigoides",
+    "id": "d583bd91-0c76-43d5-b4ea-887116858362"
+  },
+  {
+    "date": "2016-05-13",
+    "species": "Morelia spilotes variegata",
+    "id": "55bf8339-006a-4ed4-a4a7-e3d07721bf8f"
+  },
+  {
+    "date": "2018-09-24",
+    "species": "Microcavia australis",
+    "id": "bb7e2011-1179-4d7d-8fc9-66a9d52f601e"
+  },
+  {
+    "date": "2016-09-08",
+    "species": "Mungos mungo",
+    "id": "8f1dde1f-4a79-4d30-88d8-63ee188141d9"
+  },
+  {
+    "date": "2017-11-04",
+    "species": "Scolopax minor",
+    "id": "36935eb7-3c5e-491a-bab8-585ecca60e0d"
+  },
+  {
+    "date": "2021-12-05",
+    "species": "Ceratotherium simum",
+    "id": "5b9b56e7-40fa-4840-8e8c-ef4c0f6e3140"
+  },
+  {
+    "date": "2018-05-05",
+    "species": "Tamiasciurus hudsonicus",
+    "id": "cdf45811-0dcf-4a7e-8c4c-9f33e57c543a"
+  },
+  {
+    "date": "2022-04-14",
+    "species": "Acanthaster planci",
+    "id": "d644f7aa-6787-48ed-9508-7995a0564680"
+  },
+  {
+    "date": "2021-10-25",
+    "species": "Papio cynocephalus",
+    "id": "ea500b0a-cdd0-49f9-b373-1124884444ed"
+  },
+  {
+    "date": "2020-06-12",
+    "species": "Balearica pavonina",
+    "id": "26c927e5-6694-4a40-ac9e-749070232a3e"
+  },
+  {
+    "date": "2015-11-07",
+    "species": "Bradypus tridactylus",
+    "id": "d2140240-ac1b-4dfd-ae77-ea06866cd15d"
+  },
+  {
+    "date": "2020-07-28",
+    "species": "Raphicerus campestris",
+    "id": "ab558305-4d1f-403e-9e9c-d7d3e94686a2"
+  },
+  {
+    "date": "2020-10-16",
+    "species": "Cercatetus concinnus",
+    "id": "7159dc3b-37c0-4fb5-8526-d8d5358dde9d"
+  },
+  {
+    "date": "2021-05-23",
+    "species": "Antechinus flavipes",
+    "id": "10e26758-8a1c-490b-a0a7-23c8000d6045"
+  },
+  {
+    "date": "2015-07-25",
+    "species": "Phalacrocorax albiventer",
+    "id": "60871059-0f32-4245-aca9-378b86ebf562"
+  },
+  {
+    "date": "2021-08-03",
+    "species": "Sula dactylatra",
+    "id": "22350af5-1756-4289-b1c0-7f721b45bb12"
+  },
+  {
+    "date": "2021-10-12",
+    "species": "Cercatetus concinnus",
+    "id": "39889d99-50f4-453d-8c3c-3c2363734906"
+  },
+  {
+    "date": "2015-09-11",
+    "species": "Zalophus californicus",
+    "id": "2bfd283f-d082-40e1-a084-ce85a7a06808"
+  },
+  {
+    "date": "2020-02-25",
+    "species": "Ornithorhynchus anatinus",
+    "id": "8fe8b2f2-60b4-4d27-ae5e-6f923e1e7ab5"
+  },
+  {
+    "date": "2022-09-25",
+    "species": "Chelodina longicollis",
+    "id": "dbfe5c48-c6f2-49f1-8239-624bb2286e47"
+  },
+  {
+    "date": "2018-06-28",
+    "species": "Tockus flavirostris",
+    "id": "2e83f789-c039-4e63-8f68-cb0fbd897339"
+  },
+  {
+    "date": "2021-09-04",
+    "species": "Marmota caligata",
+    "id": "6a1411bc-315f-4ed2-9803-99bb88de419a"
+  },
+  {
+    "date": "2015-09-05",
+    "species": "Isoodon obesulus",
+    "id": "60d9abb2-5dfc-4d77-975d-ad983c7ea694"
+  },
+  {
+    "date": "2022-03-18",
+    "species": "Varanus sp.",
+    "id": "3e1b1c08-f673-487f-8df2-78280512b320"
+  },
+  {
+    "date": "2023-03-05",
+    "species": "Colobus guerza",
+    "id": "db3ead27-7ad9-49c5-b9ce-8efd65c3da67"
+  },
+  {
+    "date": "2016-09-01",
+    "species": "Petaurus norfolcensis",
+    "id": "72fcef13-7b5a-4ace-a460-16773431a4bd"
+  },
+  {
+    "date": "2021-05-29",
+    "species": "Potos flavus",
+    "id": "7ff28959-a224-499d-83fa-47851ac061d9"
+  },
+  {
+    "date": "2018-12-13",
+    "species": "Mazama gouazoubira",
+    "id": "b709a533-393d-483a-8b40-c2722d3b719e"
+  },
+  {
+    "date": "2015-06-11",
+    "species": "Macropus robustus",
+    "id": "e567a92a-3a54-419c-a0a8-d1b0c4c2aa36"
+  },
+  {
+    "date": "2023-04-21",
+    "species": "Callorhinus ursinus",
+    "id": "525bbc22-ae4d-4af7-9438-0c2395eb9c05"
+  },
+  {
+    "date": "2020-03-16",
+    "species": "Cyrtodactylus louisiadensis",
+    "id": "54eedace-0b5b-4307-9a22-256186dcbae8"
+  },
+  {
+    "date": "2022-11-01",
+    "species": "Ploceus intermedius",
+    "id": "6ed66cdc-9c8c-4874-acd6-b910d419926e"
+  },
+  {
+    "date": "2015-02-26",
+    "species": "Lepus townsendii",
+    "id": "89958776-fa97-454b-bdda-811251f2ca78"
+  },
+  {
+    "date": "2017-06-08",
+    "species": "Dendrocitta vagabunda",
+    "id": "7f9ea2c0-e894-4e97-b563-d2964611fba1"
+  },
+  {
+    "date": "2022-08-14",
+    "species": "unavailable",
+    "id": "13712d48-8c30-4a80-99d4-ef2eb7f84a7c"
+  },
+  {
+    "date": "2023-03-29",
+    "species": "Spermophilus tridecemlineatus",
+    "id": "d4fdbc61-7867-45ab-9758-f60dc8675653"
+  },
+  {
+    "date": "2017-12-01",
+    "species": "Platalea leucordia",
+    "id": "588c1a5f-b314-4f3d-a320-c0334b09c00e"
+  },
+  {
+    "date": "2021-11-17",
+    "species": "Ceratotherium simum",
+    "id": "bbb2949e-4e3a-4ae3-8793-1c29cd5bf0ff"
+  },
+  {
+    "date": "2022-04-01",
+    "species": "Acrantophis madagascariensis",
+    "id": "879b49f5-ec88-4850-b676-230278ebe64b"
+  },
+  {
+    "date": "2023-03-01",
+    "species": "Macropus giganteus",
+    "id": "a0992c60-92a4-46b9-8ee0-73672462209a"
+  },
+  {
+    "date": "2016-04-01",
+    "species": "Ramphastos tucanus",
+    "id": "091ed862-2f54-48a1-a03c-359cab001ab8"
+  },
+  {
+    "date": "2015-06-28",
+    "species": "Felis serval",
+    "id": "168460cc-b8d3-478c-bcce-11a758e4bec4"
+  },
+  {
+    "date": "2020-10-05",
+    "species": "Eumetopias jubatus",
+    "id": "517f6616-9713-437f-ae03-d743b03d3148"
+  },
+  {
+    "date": "2021-11-06",
+    "species": "Taurotagus oryx",
+    "id": "d4831316-42f4-46be-aaed-5d0390c7f35f"
+  },
+  {
+    "date": "2016-05-07",
+    "species": "Capra hircus",
+    "id": "73745991-5758-467c-90c4-4124fbf3f60f"
+  },
+  {
+    "date": "2021-09-10",
+    "species": "Sceloporus magister",
+    "id": "970d8e4b-9149-41a2-9633-17cd49bdcbf9"
+  },
+  {
+    "date": "2020-01-09",
+    "species": "Madoqua kirkii",
+    "id": "93e552c9-959f-4cc2-a04b-4e81e904bb79"
+  },
+  {
+    "date": "2023-02-17",
+    "species": "Limnocorax flavirostra",
+    "id": "2f297bc0-fe97-4da0-a3fd-5677991bf0e7"
+  },
+  {
+    "date": "2022-07-06",
+    "species": "Uraeginthus granatina",
+    "id": "2b15f56c-bbc1-43eb-9324-a254744e2a45"
+  },
+  {
+    "date": "2018-03-15",
+    "species": "Ninox superciliaris",
+    "id": "ff7ce17b-6d32-4770-ae52-6555d1345916"
+  },
+  {
+    "date": "2022-07-29",
+    "species": "Lophoaetus occipitalis",
+    "id": "76b4707f-9574-4285-925e-9aa2c8cdecfb"
+  },
+  {
+    "date": "2020-11-22",
+    "species": "Bucephala clangula",
+    "id": "f9390d24-01a3-4628-8ce7-bb3cfb8ab958"
+  },
+  {
+    "date": "2022-02-02",
+    "species": "Eubalaena australis",
+    "id": "9f0fb03f-c68e-46f3-9c52-d454c07ed93a"
+  },
+  {
+    "date": "2022-08-30",
+    "species": "Spheniscus magellanicus",
+    "id": "0bbd1ac0-64c3-43a5-8dcd-70e419e6fdf0"
+  },
+  {
+    "date": "2017-03-22",
+    "species": "Phalacrocorax niger",
+    "id": "feddc0d8-5740-41da-9cec-d567e85b8742"
+  },
+  {
+    "date": "2021-06-28",
+    "species": "Laniaurius atrococcineus",
+    "id": "58f44c29-a26d-4ad6-8fd1-e3f10e86a4b5"
+  },
+  {
+    "date": "2019-09-25",
+    "species": "Coluber constrictor",
+    "id": "e1c83353-4752-4cd3-886c-9545b740ceb6"
+  },
+  {
+    "date": "2015-02-08",
+    "species": "Ploceus intermedius",
+    "id": "fcf27f02-1b97-483a-bd15-9d4a1fa26e2e"
+  },
+  {
+    "date": "2019-02-03",
+    "species": "Lamprotornis superbus",
+    "id": "8dda2745-4cd0-409e-b82d-049d4ec5a581"
+  },
+  {
+    "date": "2021-11-29",
+    "species": "Morelia spilotes variegata",
+    "id": "f45f0cdd-55b8-4372-ac03-b7df3a573ea5"
+  },
+  {
+    "date": "2019-06-12",
+    "species": "Papio cynocephalus",
+    "id": "c8f26e03-f8e9-4fce-ab24-63288f7630ce"
+  },
+  {
+    "date": "2018-06-21",
+    "species": "Colobus guerza",
+    "id": "84844491-d904-4b5f-ab44-e9d00d743941"
+  },
+  {
+    "date": "2021-09-23",
+    "species": "Ploceus rubiginosus",
+    "id": "0a020c2f-3748-4994-b006-12246191826a"
+  },
+  {
+    "date": "2018-03-02",
+    "species": "Numida meleagris",
+    "id": "0a8fb00b-d9fd-4132-ae1d-5acc76129ae2"
+  },
+  {
+    "date": "2020-12-31",
+    "species": "Bucorvus leadbeateri",
+    "id": "aeedbabc-5ae3-4b0e-b0f5-f84c3214396e"
+  },
+  {
+    "date": "2015-08-04",
+    "species": "Vulpes chama",
+    "id": "da27a58a-681b-4dde-ae84-0fe66feb80a2"
+  },
+  {
+    "date": "2019-11-30",
+    "species": "Callorhinus ursinus",
+    "id": "a97478fb-8c1e-4751-bcba-bc3099444d16"
+  },
+  {
+    "date": "2016-12-22",
+    "species": "Chauna torquata",
+    "id": "3ccd2629-b984-4eeb-96a0-e12548dd67c3"
+  },
+  {
+    "date": "2022-05-15",
+    "species": "Marmota monax",
+    "id": "cc66775f-40b1-4cf4-8724-230091e8b74d"
+  },
+  {
+    "date": "2018-08-25",
+    "species": "Varanus salvator",
+    "id": "6f3bf4d6-974f-49b1-a643-1a85cf1ac729"
+  },
+  {
+    "date": "2019-11-06",
+    "species": "Boselaphus tragocamelus",
+    "id": "d5d43b5e-0bf3-473b-8979-2f8ce9bb6960"
+  },
+  {
+    "date": "2017-03-10",
+    "species": "Orcinus orca",
+    "id": "ef4f2a88-318c-439e-a3d6-f5d61a1ce3c5"
+  },
+  {
+    "date": "2018-01-02",
+    "species": "Hippopotamus amphibius",
+    "id": "fddb931e-fab5-4998-82d9-931931b95cd2"
+  },
+  {
+    "date": "2015-11-13",
+    "species": "Naja nivea",
+    "id": "86ad022c-6bd0-4b52-8774-a41955744a55"
+  },
+  {
+    "date": "2019-12-22",
+    "species": "Cyrtodactylus louisiadensis",
+    "id": "e68d3367-8940-4bc2-a926-faa30973a93b"
+  },
+  {
+    "date": "2021-01-06",
+    "species": "Martes americana",
+    "id": "4bb53f1c-d39c-411c-8386-7bc460af3bff"
+  },
+  {
+    "date": "2016-12-30",
+    "species": "Marmota caligata",
+    "id": "4948e2d5-6edd-4703-bee0-b7df491da923"
+  },
+  {
+    "date": "2017-06-10",
+    "species": "Stercorarius longicausus",
+    "id": "34822b51-1a81-4c86-b68c-bb67cd70731c"
+  },
+  {
+    "date": "2021-01-20",
+    "species": "Sylvicapra grimma",
+    "id": "5115443b-207b-45ca-98c4-159fdbc345d4"
+  },
+  {
+    "date": "2023-03-26",
+    "species": "Ovis musimon",
+    "id": "612c3720-5864-4c3e-b024-73c16681d82e"
+  },
+  {
+    "date": "2023-03-26",
+    "species": "Dasyurus viverrinus",
+    "id": "4f0a98c7-6d89-41a0-a37a-fe6b7b088960"
+  },
+  {
+    "date": "2019-01-02",
+    "species": "Chlamydosaurus kingii",
+    "id": "8854e2d0-78ae-47e7-a58c-46da30a59ac3"
+  },
+  {
+    "date": "2016-03-15",
+    "species": "Tragelaphus strepsiceros",
+    "id": "1be44271-2df2-49cb-8e8f-538e9f05f13f"
+  },
+  {
+    "date": "2019-11-11",
+    "species": "Zosterops pallidus",
+    "id": "c0c5b3f3-8b99-41fa-be94-469970130eb9"
+  },
+  {
+    "date": "2021-08-03",
+    "species": "Eumetopias jubatus",
+    "id": "7bb43a71-2900-4f73-9e62-4a2b931e399a"
+  },
+  {
+    "date": "2019-10-11",
+    "species": "Varanus albigularis",
+    "id": "2d390854-46dc-44e9-a87a-f9a6b4596448"
+  },
+  {
+    "date": "2022-08-10",
+    "species": "Panthera leo",
+    "id": "de59f6dc-1f81-43f8-89c9-bfddadac22a2"
+  },
+  {
+    "date": "2022-08-23",
+    "species": "Anastomus oscitans",
+    "id": "5a2c4cb0-2709-4c38-bff0-69c66921d0b3"
+  },
+  {
+    "date": "2021-11-21",
+    "species": "unavailable",
+    "id": "37abfb3f-5bac-4815-8a90-f4b1ad2b6bff"
+  },
+  {
+    "date": "2016-09-08",
+    "species": "Cracticus nigroagularis",
+    "id": "4e4dd7cf-9e1b-440d-967e-0848e0547261"
+  },
+  {
+    "date": "2019-10-20",
+    "species": "Spermophilus tridecemlineatus",
+    "id": "e8350921-5ebe-4653-9363-a3b4933d89cb"
+  },
+  {
+    "date": "2017-09-17",
+    "species": "Bucorvus leadbeateri",
+    "id": "08246d1a-bf9d-45cf-81d7-96f076f59742"
+  },
+  {
+    "date": "2017-11-24",
+    "species": "Pterocles gutturalis",
+    "id": "95f0ae58-1ca5-400b-80fe-8f6b3a4fda2d"
+  },
+  {
+    "date": "2021-07-05",
+    "species": "Tamandua tetradactyla",
+    "id": "bdeae92f-a1db-407b-b7fa-23781b1005ef"
+  },
+  {
+    "date": "2021-05-21",
+    "species": "Ovis ammon",
+    "id": "7416c751-b6ed-40f3-8572-775ecd23519e"
+  },
+  {
+    "date": "2022-01-23",
+    "species": "Ictonyx striatus",
+    "id": "4cd13751-0413-4324-bfd8-93166bf9d428"
+  },
+  {
+    "date": "2022-11-26",
+    "species": "Agkistrodon piscivorus",
+    "id": "e048c8fd-c467-41c9-a1bb-4612b3cffaff"
+  },
+  {
+    "date": "2021-10-20",
+    "species": "Haliaetus vocifer",
+    "id": "0bfb9819-39b9-4829-b278-c40686161577"
+  },
+  {
+    "date": "2016-02-23",
+    "species": "unavailable",
+    "id": "47dde990-4f68-48e7-9030-d2892479e3b6"
+  },
+  {
+    "date": "2021-06-28",
+    "species": "Callorhinus ursinus",
+    "id": "bb5ef507-a649-4a99-9f0b-0e95addddfcb"
+  },
+  {
+    "date": "2018-09-29",
+    "species": "Nectarinia chalybea",
+    "id": "92a5ec3f-68f5-42d0-a46a-bd793b612df8"
+  },
+  {
+    "date": "2015-09-04",
+    "species": "Ephipplorhynchus senegalensis",
+    "id": "0973adf7-ec62-46d2-a953-12d39886b347"
+  },
+  {
+    "date": "2020-10-21",
+    "species": "Canis lupus",
+    "id": "1b259dc2-47e3-4a75-a92b-bf63e3bdc5d1"
+  },
+  {
+    "date": "2019-09-20",
+    "species": "Paraxerus cepapi",
+    "id": "79110d01-5296-4165-945e-d47a71b6fb50"
+  },
+  {
+    "date": "2022-11-06",
+    "species": "Paraxerus cepapi",
+    "id": "03f38f3f-6ade-434c-aa9c-aae179c2a1d3"
+  },
+  {
+    "date": "2019-02-20",
+    "species": "Vulpes chama",
+    "id": "fa5f4d8c-2e4b-4c10-b008-5be9891c6ae6"
+  },
+  {
+    "date": "2021-03-12",
+    "species": "Marmota monax",
+    "id": "9f9f9520-885f-4c9e-99fb-d453a523ef2e"
+  },
+  {
+    "date": "2021-10-30",
+    "species": "Spheniscus mendiculus",
+    "id": "89704999-c929-4b8d-8f06-2d804a7addfd"
+  },
+  {
+    "date": "2016-02-01",
+    "species": "Myrmecophaga tridactyla",
+    "id": "309fc4b4-0fc5-47ca-b7b5-7c9a33a42d18"
+  },
+  {
+    "date": "2015-07-02",
+    "species": "Chlidonias leucopterus",
+    "id": "c5666818-ea87-4fe6-b338-3f23d5975563"
+  },
+  {
+    "date": "2016-07-18",
+    "species": "Corvus brachyrhynchos",
+    "id": "33d9c676-faca-4b49-97a0-2671a7ede036"
+  },
+  {
+    "date": "2018-10-07",
+    "species": "Heloderma horridum",
+    "id": "cd723d89-a9a2-4002-b6e6-c154ae060a40"
+  },
+  {
+    "date": "2016-10-11",
+    "species": "Drymarchon corias couperi",
+    "id": "6037248d-517a-496b-82c8-f5e046b268c4"
+  },
+  {
+    "date": "2015-09-09",
+    "species": "Varanus sp.",
+    "id": "eccf393c-4498-4f00-815b-927eec6c0e13"
+  },
+  {
+    "date": "2017-11-02",
+    "species": "Equus burchelli",
+    "id": "b9fb0a0a-c9d3-43d3-b564-90616a4c0dbf"
+  },
+  {
+    "date": "2017-05-15",
+    "species": "Ciconia episcopus",
+    "id": "f1fdb5e7-7d5b-4397-b046-7fbdc76c7c42"
+  },
+  {
+    "date": "2021-06-06",
+    "species": "Petaurus norfolcensis",
+    "id": "f7639953-acaf-4865-af3a-0701f502a8f7"
+  },
+  {
+    "date": "2018-12-21",
+    "species": "Phoca vitulina",
+    "id": "220b7a41-1c61-456b-8d1b-b625e5442a7a"
+  },
+  {
+    "date": "2019-03-21",
+    "species": "Geochelone elegans",
+    "id": "79823820-3964-47eb-80f8-d83a7ebcc07b"
+  },
+  {
+    "date": "2016-03-12",
+    "species": "Felis chaus",
+    "id": "9f0edbbf-cefb-4cd7-b159-efbaccef2e2f"
+  },
+  {
+    "date": "2019-03-30",
+    "species": "Colobus guerza",
+    "id": "100df969-dadf-4e91-881c-1f4323ab4730"
+  },
+  {
+    "date": "2021-01-21",
+    "species": "Libellula quadrimaculata",
+    "id": "8e3f5bbc-1f58-4cba-b395-c48ffeaae075"
+  },
+  {
+    "date": "2018-12-14",
+    "species": "Trichosurus vulpecula",
+    "id": "43c920f7-b486-4cf5-8f5e-b61b23d1fb7d"
+  },
+  {
+    "date": "2017-10-13",
+    "species": "Hyaena hyaena",
+    "id": "8b82b136-eacc-4c48-92ba-bac54ce1653e"
+  },
+  {
+    "date": "2023-01-11",
+    "species": "Aonyx capensis",
+    "id": "52180dba-bc0f-4855-a976-e6f460916381"
+  },
+  {
+    "date": "2021-06-07",
+    "species": "Fulica cristata",
+    "id": "f674b208-ed1b-451c-812e-38f367213ad5"
+  },
+  {
+    "date": "2020-03-16",
+    "species": "Megaderma spasma",
+    "id": "6eefc832-f559-4d73-abba-ad6a9e9bcd9e"
+  },
+  {
+    "date": "2023-01-14",
+    "species": "Francolinus coqui",
+    "id": "52a21f41-76c3-4297-a16c-236ab75558a5"
+  },
+  {
+    "date": "2017-06-09",
+    "species": "Cracticus nigroagularis",
+    "id": "8875c4d3-a3b4-4377-ac8a-59749f3f1768"
+  },
+  {
+    "date": "2021-10-04",
+    "species": "Cacatua tenuirostris",
+    "id": "85df85db-1b94-401d-85d4-4ed9ba0655da"
+  },
+  {
+    "date": "2017-10-04",
+    "species": "Hippotragus niger",
+    "id": "4b969e6d-906a-4450-a516-3a22713ce2b1"
+  },
+  {
+    "date": "2017-06-09",
+    "species": "Equus hemionus",
+    "id": "b3ea1ae6-e783-4022-a4ab-43056678ba24"
+  },
+  {
+    "date": "2017-11-11",
+    "species": "Pterocles gutturalis",
+    "id": "0ac0f215-6f8e-441e-864d-fd34a83113f8"
+  },
+  {
+    "date": "2020-12-03",
+    "species": "Pelecanus occidentalis",
+    "id": "cbb5903f-54ac-407b-a819-5ee4f9666931"
+  },
+  {
+    "date": "2022-02-06",
+    "species": "Helogale undulata",
+    "id": "9c21907d-473b-460f-9dd8-13467883ae4f"
+  },
+  {
+    "date": "2021-11-21",
+    "species": "Pavo cristatus",
+    "id": "41bd01aa-3449-4959-9148-073918a2a909"
+  },
+  {
+    "date": "2016-03-15",
+    "species": "Uraeginthus granatina",
+    "id": "39eb5988-71af-47eb-84da-580354fbe8ab"
+  },
+  {
+    "date": "2022-05-06",
+    "species": "Grus antigone",
+    "id": "c6e226d9-7a4a-4a5c-8ccb-07ca40245d8f"
+  },
+  {
+    "date": "2021-01-23",
+    "species": "Alopex lagopus",
+    "id": "aed9b4f4-183a-46c2-8a09-ee1de3d63ba5"
+  },
+  {
+    "date": "2021-11-01",
+    "species": "Boa constrictor mexicana",
+    "id": "08c73dad-030b-467a-baf7-bc0764ba558b"
+  },
+  {
+    "date": "2016-11-06",
+    "species": "Cathartes aura",
+    "id": "65139721-a51c-4e5a-ad90-bfc014907e92"
+  },
+  {
+    "date": "2018-05-13",
+    "species": "Perameles nasuta",
+    "id": "15f821f9-9894-4b73-8814-ce9cfd897170"
+  },
+  {
+    "date": "2016-02-03",
+    "species": "Cyrtodactylus louisiadensis",
+    "id": "dd799eee-3291-4c19-b4c2-6a3ceead4cc2"
+  },
+  {
+    "date": "2020-11-20",
+    "species": "Anser caerulescens",
+    "id": "b0a7b9a7-af24-4444-95e7-38451aeb889d"
+  },
+  {
+    "date": "2016-07-14",
+    "species": "Bugeranus caruncalatus",
+    "id": "2b8f5432-5e07-4191-99ae-47152e5958cc"
+  },
+  {
+    "date": "2018-11-28",
+    "species": "Lamprotornis sp.",
+    "id": "7573fc0d-b673-46c3-8ab6-e754c93934e4"
+  },
+  {
+    "date": "2019-05-30",
+    "species": "Acrobates pygmaeus",
+    "id": "6b0e66ea-268d-4238-b371-fb6f48fa3877"
+  },
+  {
+    "date": "2017-09-24",
+    "species": "Aegypius tracheliotus",
+    "id": "cd3a4221-cefc-4460-b885-c1068336f37e"
+  },
+  {
+    "date": "2021-10-29",
+    "species": "Panthera leo persica",
+    "id": "012fc511-d74a-44c1-bcf6-2bce7bf36ddd"
+  },
+  {
+    "date": "2015-03-03",
+    "species": "Echimys chrysurus",
+    "id": "996551ce-7c23-477f-b8a7-b09450b1eccd"
+  },
+  {
+    "date": "2019-08-07",
+    "species": "Alopex lagopus",
+    "id": "6c1d6e76-a1b9-4001-9bf5-3b00dae3733e"
+  },
+  {
+    "date": "2015-11-23",
+    "species": "Trichosurus vulpecula",
+    "id": "7d9396c1-77a0-4a73-ad96-504e3ec593c4"
+  },
+  {
+    "date": "2018-09-10",
+    "species": "Alopex lagopus",
+    "id": "6fe0b9b4-e3ce-4edb-9f18-68092554af5f"
+  },
+  {
+    "date": "2020-06-17",
+    "species": "Cordylus giganteus",
+    "id": "18e76d8d-4e0f-482b-b114-5c2612a8418a"
+  },
+  {
+    "date": "2017-09-30",
+    "species": "Madoqua kirkii",
+    "id": "1037efad-b410-40dc-bdbe-a7ee4ce72f82"
+  },
+  {
+    "date": "2021-12-26",
+    "species": "Felis domesticus sicut angelus est",
+    "id": "3d0e9d14-25d1-462d-bccb-51063762f4f4"
+  },
+  {
+    "date": "2015-05-11",
+    "species": "Butorides striatus",
+    "id": "0cfef8b3-323b-4943-ad29-8521c7010c18"
+  },
+  {
+    "date": "2021-07-10",
+    "species": "Mazama americana",
+    "id": "e3491196-bff2-4d69-9ba5-9d6a269c47f1"
+  },
+  {
+    "date": "2018-08-01",
+    "species": "Anser caerulescens",
+    "id": "879ff9af-3bf3-4b82-bb14-944f6107f9d8"
+  },
+  {
+    "date": "2017-01-03",
+    "species": "Felis caracal",
+    "id": "80c7de4f-0e60-4d12-99f2-de0f69b24eef"
+  },
+  {
+    "date": "2019-04-12",
+    "species": "Corvus albus",
+    "id": "a068305f-a9da-4055-ba65-55b72ed71126"
+  },
+  {
+    "date": "2020-09-18",
+    "species": "Leptoptilos crumeniferus",
+    "id": "64591e39-fc9f-4542-95fe-5ac05c174368"
+  },
+  {
+    "date": "2018-12-03",
+    "species": "Eolophus roseicapillus",
+    "id": "20dacaba-1f10-4ae2-8b71-76e8b873c91d"
+  },
+  {
+    "date": "2018-08-17",
+    "species": "Merops bullockoides",
+    "id": "683044b0-4a60-45ab-829f-7e58b93d0961"
+  },
+  {
+    "date": "2017-05-29",
+    "species": "Lepilemur rufescens",
+    "id": "65855b70-e3c7-4010-9f74-1603b4f2dd5b"
+  },
+  {
+    "date": "2020-04-09",
+    "species": "Anas bahamensis",
+    "id": "10a28b60-e54e-473b-b185-75d07edb37a1"
+  },
+  {
+    "date": "2017-11-25",
+    "species": "Certotrichas paena",
+    "id": "988b08d5-c4ef-44ab-b6a4-d4920d5578da"
+  },
+  {
+    "date": "2022-02-18",
+    "species": "Lamprotornis nitens",
+    "id": "5c61edd0-1f11-4d40-8749-60043718e8c7"
+  },
+  {
+    "date": "2017-02-08",
+    "species": "Castor fiber",
+    "id": "ada226bc-7577-4dd5-80e0-45490e2d2258"
+  },
+  {
+    "date": "2022-05-05",
+    "species": "Centrocercus urophasianus",
+    "id": "535ccc36-7382-4e06-b7d1-98c7a7c7fb26"
+  },
+  {
+    "date": "2015-07-15",
+    "species": "Leptoptilus dubius",
+    "id": "331ee899-65c5-441b-a6bf-bebf248156ad"
+  },
+  {
+    "date": "2022-01-16",
+    "species": "Ephipplorhynchus senegalensis",
+    "id": "f0c0c411-603d-4130-ae6d-2100ceded4ae"
+  },
+  {
+    "date": "2015-07-25",
+    "species": "Otaria flavescens",
+    "id": "058fd9c9-8613-4baf-8f97-97fbe0709bd5"
+  },
+  {
+    "date": "2017-06-07",
+    "species": "Felis concolor",
+    "id": "d5e5084e-9b3a-402b-af22-1c35554339cd"
+  },
+  {
+    "date": "2019-08-06",
+    "species": "Felis caracal",
+    "id": "0501c148-d0f6-428c-9161-6e465ce7b30f"
+  },
+  {
+    "date": "2020-05-12",
+    "species": "Boa constrictor mexicana",
+    "id": "0d5cd5a5-8360-4f70-9c45-a44f0253799f"
+  },
+  {
+    "date": "2022-04-19",
+    "species": "Butorides striatus",
+    "id": "4ef669a7-1eab-4e4c-9d8d-6c6973595e38"
+  },
+  {
+    "date": "2015-07-10",
+    "species": "Hystrix cristata",
+    "id": "f79afbe5-a35a-490f-ab80-bba81bdd0384"
+  },
+  {
+    "date": "2019-10-05",
+    "species": "Gyps fulvus",
+    "id": "9f536bb4-f01d-43cf-8963-063e8e17aecd"
+  },
+  {
+    "date": "2016-07-12",
+    "species": "Ateles paniscus",
+    "id": "8f7e9152-adbd-4e56-9c7b-303b5ea191d3"
+  },
+  {
+    "date": "2016-03-28",
+    "species": "Bison bison",
+    "id": "8e12d598-d9b2-4a8b-85f0-de84dee432e1"
+  },
+  {
+    "date": "2015-12-20",
+    "species": "Corythornis cristata",
+    "id": "2b36b739-643e-4aa8-9688-b5ed2027e924"
+  },
+  {
+    "date": "2022-07-05",
+    "species": "Sula dactylatra",
+    "id": "72cf30d0-5dfc-4784-b305-53fc332370cc"
+  },
+  {
+    "date": "2016-12-09",
+    "species": "Pycnonotus nigricans",
+    "id": "4db70541-2aba-44ed-866f-175891758067"
+  },
+  {
+    "date": "2019-02-28",
+    "species": "Felis yagouaroundi",
+    "id": "96f6ece3-3b00-4b6b-9579-1ef705d85ee3"
+  },
+  {
+    "date": "2022-11-30",
+    "species": "Psophia viridis",
+    "id": "0ab721d9-dea4-4a8a-9070-41faa784f314"
+  },
+  {
+    "date": "2016-03-17",
+    "species": "Macropus eugenii",
+    "id": "713b46e0-b33d-47bb-a637-4f4d4b588ea9"
+  },
+  {
+    "date": "2021-06-18",
+    "species": "Acrobates pygmaeus",
+    "id": "4e73a266-7378-444e-8ba2-787c5cb7143d"
+  },
+  {
+    "date": "2019-07-17",
+    "species": "Anser caerulescens",
+    "id": "f8ecfe2c-5e7e-4e55-9c33-a116f936f9e2"
+  },
+  {
+    "date": "2018-01-12",
+    "species": "Centrocercus urophasianus",
+    "id": "52f56e21-3f65-42fc-977f-625969f658d4"
+  },
+  {
+    "date": "2015-10-10",
+    "species": "Colaptes campestroides",
+    "id": "4d7588fc-ba42-4357-b01b-9d1f5ccc0bbc"
+  },
+  {
+    "date": "2019-06-25",
+    "species": "Acrobates pygmaeus",
+    "id": "51f93007-77ed-40be-8f89-a1f1ec4d9a8b"
+  },
+  {
+    "date": "2022-08-08",
+    "species": "Gekko gecko",
+    "id": "21ba9c62-348a-4e97-a921-a122638eed35"
+  },
+  {
+    "date": "2015-12-10",
+    "species": "Myotis lucifugus",
+    "id": "86adad63-86e3-4f28-8758-0a91a08d62f0"
+  },
+  {
+    "date": "2015-02-04",
+    "species": "Tringa glareola",
+    "id": "e307956e-ec30-4a9d-a3d0-2d4074fbe811"
+  },
+  {
+    "date": "2022-08-14",
+    "species": "Lemur catta",
+    "id": "7122c230-d988-4727-b804-4a12b44d9ea3"
+  },
+  {
+    "date": "2020-09-09",
+    "species": "Creagrus furcatus",
+    "id": "23a148b7-f76f-4215-8674-e42962baa468"
+  },
+  {
+    "date": "2019-04-27",
+    "species": "Ovis ammon",
+    "id": "e9260177-1a1b-4679-a99e-75de49966ec4"
+  },
+  {
+    "date": "2015-04-12",
+    "species": "Pelecans onocratalus",
+    "id": "33c6ff44-17f3-4692-811b-5e6b9e110580"
+  },
+  {
+    "date": "2015-02-16",
+    "species": "Deroptyus accipitrinus",
+    "id": "dded1c22-e7fc-49b2-b25d-638c49127ba6"
+  },
+  {
+    "date": "2021-06-09",
+    "species": "Trichosurus vulpecula",
+    "id": "8f8c324a-45af-4429-bc4c-23e058c133d4"
+  },
+  {
+    "date": "2015-05-02",
+    "species": "Turtur chalcospilos",
+    "id": "9266da79-a8cf-429f-b40c-ad798c9c376d"
+  },
+  {
+    "date": "2016-08-24",
+    "species": "Spizaetus coronatus",
+    "id": "78c5edcd-b60d-4994-b36c-f7e1876e039b"
+  },
+  {
+    "date": "2016-11-05",
+    "species": "Choriotis kori",
+    "id": "98363107-7192-492c-986c-40319fa85b06"
+  },
+  {
+    "date": "2022-12-08",
+    "species": "Chauna torquata",
+    "id": "9ea87257-8b5f-4bbe-a237-f0f578cdcf7a"
+  },
+  {
+    "date": "2017-10-28",
+    "species": "Laniarius ferrugineus",
+    "id": "7ba8a4d6-7404-41e8-aa47-43a4b8ffc35a"
+  },
+  {
+    "date": "2021-02-25",
+    "species": "Boa constrictor mexicana",
+    "id": "87fa5913-4e00-4fd3-a0fc-b63629093244"
+  },
+  {
+    "date": "2021-05-27",
+    "species": "Cheeeeeeeeeeeeeeeeeeeeeeeese",
+    "id": "a5f46869-ee8d-4b69-9979-07bc4bea739c"
+  },
+  {
+    "date": "2019-01-12",
+    "species": "Ceryle rudis",
+    "id": "3dd95d1c-c335-4796-ba42-21839c570b00"
+  },
+  {
+    "date": "2016-07-26",
+    "species": "Loris tardigratus",
+    "id": "0961da9c-c795-4255-a734-c73a58d1a55a"
+  },
+  {
+    "date": "2018-05-02",
+    "species": "Capreolus capreolus",
+    "id": "5ca13692-8af1-4152-8a0d-7338cb725fb7"
+  },
+  {
+    "date": "2016-01-20",
+    "species": "Megaderma spasma",
+    "id": "b3f05a52-0a24-4cb3-a75a-c78505ffe1a0"
+  },
+  {
+    "date": "2019-07-13",
+    "species": "Tockus flavirostris",
+    "id": "cbd2d3c6-2587-48dd-912e-423887f89416"
+  },
+  {
+    "date": "2017-10-14",
+    "species": "Loxodonta africana",
+    "id": "1b2bc6ec-e342-42b4-a492-b05bc3a864f6"
+  },
+  {
+    "date": "2018-11-25",
+    "species": "Centrocercus urophasianus",
+    "id": "150a1fb3-c7c3-425e-89e5-1e73c02f00eb"
+  },
+  {
+    "date": "2016-07-01",
+    "species": "Anastomus oscitans",
+    "id": "6403536d-510f-48ee-aab4-8a972604a02f"
+  },
+  {
+    "date": "2016-02-21",
+    "species": "Phalacrocorax carbo",
+    "id": "fe949d75-4fc3-428d-8924-175828f8821c"
+  },
+  {
+    "date": "2018-08-22",
+    "species": "Tiliqua scincoides",
+    "id": "1872fb16-83c6-49d9-931d-bdf3d4e8ed2d"
+  },
+  {
+    "date": "2016-06-21",
+    "species": "Marmota monax",
+    "id": "c0a36571-5f67-4301-9210-3e87c54eded3"
+  },
+  {
+    "date": "2020-04-16",
+    "species": "Macropus agilis",
+    "id": "378c89bf-a5f9-476a-b1c5-94f711344cd4"
+  },
+  {
+    "date": "2022-05-18",
+    "species": "Ardea golieth",
+    "id": "ccbb59e6-159e-4598-be52-9d1ee6bf83c2"
+  },
+  {
+    "date": "2015-06-25",
+    "species": "Speotyte cuniculata",
+    "id": "eebfbf85-a170-4561-ba9b-00f27f704860"
+  },
+  {
+    "date": "2020-03-05",
+    "species": "Antidorcas marsupialis",
+    "id": "f2727fe5-6c38-49b8-869f-4a1ff306d9c3"
+  },
+  {
+    "date": "2022-09-26",
+    "species": "Dusicyon thous",
+    "id": "4f57fb52-044c-471c-9e3c-aaf68d179cf5"
+  },
+  {
+    "date": "2015-07-19",
+    "species": "Bucephala clangula",
+    "id": "b837d38e-81f3-4856-8fba-7424f43101d2"
+  },
+  {
+    "date": "2017-10-05",
+    "species": "Aegypius tracheliotus",
+    "id": "5d69a9d6-57dc-4310-ba2d-83c87d7fd139"
+  },
+  {
+    "date": "2015-08-23",
+    "species": "Cynictis penicillata",
+    "id": "a8e5cbcd-dc16-44dc-af84-012db094a27a"
+  },
+  {
+    "date": "2018-04-02",
+    "species": "Procyon lotor",
+    "id": "a4f642af-379d-47d0-83e2-fe2ee494673c"
+  },
+  {
+    "date": "2018-10-26",
+    "species": "Macropus agilis",
+    "id": "bda43e14-92ef-4bd8-bea2-3e6da315a6b8"
+  },
+  {
+    "date": "2019-06-24",
+    "species": "Terrapene carolina",
+    "id": "7a195d12-4234-4be6-9036-ab1a6dfb5369"
+  },
+  {
+    "date": "2021-03-24",
+    "species": "Procyon lotor",
+    "id": "4dfa5226-e08a-4534-8f68-fee5d19b243d"
+  },
+  {
+    "date": "2015-07-06",
+    "species": "Vulpes vulpes",
+    "id": "efa8ed9c-a6da-4cd1-b111-d5e828ab6849"
+  },
+  {
+    "date": "2021-04-30",
+    "species": "Equus burchelli",
+    "id": "fcd65493-95ae-4e63-baa1-559cb4fb1e95"
+  },
+  {
+    "date": "2018-02-19",
+    "species": "Papio cynocephalus",
+    "id": "108fcd57-b14b-48b9-aa37-38cb5d361f08"
+  },
+  {
+    "date": "2015-05-10",
+    "species": "Alcelaphus buselaphus cokii",
+    "id": "d9bc4f72-83ee-4c0a-8f93-a23dcf1e494b"
+  },
+  {
+    "date": "2020-04-09",
+    "species": "Laniaurius atrococcineus",
+    "id": "cd83ae31-aa4a-4af2-a003-93523a93a300"
+  },
+  {
+    "date": "2020-08-21",
+    "species": "Canis mesomelas",
+    "id": "41408fd0-2763-40a1-a3d5-3734f1e8e65e"
+  },
+  {
+    "date": "2021-05-26",
+    "species": "Phalacrocorax carbo",
+    "id": "af0745fe-2687-446b-9c82-6ccdce512008"
+  },
+  {
+    "date": "2022-03-01",
+    "species": "Papio ursinus",
+    "id": "f8f347c9-6b09-40d6-bdb4-95dc406ad98b"
+  },
+  {
+    "date": "2018-12-17",
+    "species": "Felis wiedi or Leopardus weidi",
+    "id": "de8d63ee-184c-4370-b397-8021d8a8981e"
+  },
+  {
+    "date": "2021-12-17",
+    "species": "Aegypius tracheliotus",
+    "id": "37f933a2-82ec-4296-9992-bfe1dbb536cf"
+  },
+  {
+    "date": "2020-03-29",
+    "species": "Damaliscus lunatus",
+    "id": "eadeae15-8fda-413a-9375-45ed1d639a27"
+  },
+  {
+    "date": "2023-04-06",
+    "species": "Geospiza sp.",
+    "id": "81d653e7-439d-4ac7-9e8f-dd445641b2ad"
+  },
+  {
+    "date": "2020-09-30",
+    "species": "Manouria emys",
+    "id": "692e15f3-c6d6-4247-a459-239f96d98a5c"
+  },
+  {
+    "date": "2021-05-05",
+    "species": "Macaca nemestrina",
+    "id": "fedeede0-dcbd-49f6-a1f1-b53b85dd8939"
+  },
+  {
+    "date": "2016-09-27",
+    "species": "Bison bison",
+    "id": "35d74cda-c0be-4691-8757-3139b06557d4"
+  },
+  {
+    "date": "2020-05-31",
+    "species": "Alouatta seniculus",
+    "id": "86a4dd45-febb-4ccf-b233-64b9b7a0d5db"
+  },
+  {
+    "date": "2020-03-19",
+    "species": "Cercatetus concinnus",
+    "id": "3b2146c2-bbfa-4bac-8ce0-f4ebaa5cbd60"
+  },
+  {
+    "date": "2017-03-18",
+    "species": "Falco mexicanus",
+    "id": "3d5c78c4-1ae8-49f8-a99c-84a746f23778"
+  },
+  {
+    "date": "2016-12-28",
+    "species": "Ciconia episcopus",
+    "id": "8f19ee34-9d85-4d0c-994c-3fa1a607c840"
+  },
+  {
+    "date": "2016-09-24",
+    "species": "Macaca mulatta",
+    "id": "2e5a2eef-9024-47b4-acaa-47208829d016"
+  },
+  {
+    "date": "2021-04-09",
+    "species": "Buteo jamaicensis",
+    "id": "35ca8d21-e773-4fa2-9beb-500a1fa13776"
+  },
+  {
+    "date": "2022-08-20",
+    "species": "Platalea leucordia",
+    "id": "6314f5e8-6840-4a01-bf8f-58ede399e84d"
+  },
+  {
+    "date": "2019-10-23",
+    "species": "Sciurus niger",
+    "id": "466432dd-ab4a-4398-8aa3-bdc49c22c683"
+  },
+  {
+    "date": "2018-06-15",
+    "species": "Corvus albus",
+    "id": "51746de3-7780-4814-8ec5-58b99b5dba35"
+  },
+  {
+    "date": "2022-05-12",
+    "species": "Acrantophis madagascariensis",
+    "id": "8d95523f-3c16-464f-91e3-590844c5058c"
+  },
+  {
+    "date": "2023-03-30",
+    "species": "Gopherus agassizii",
+    "id": "ed3bddda-8323-482e-8efe-d235307d5422"
+  },
+  {
+    "date": "2020-06-23",
+    "species": "Haematopus ater",
+    "id": "cde442a2-eaec-4fd2-9287-f33a69595022"
+  },
+  {
+    "date": "2021-06-27",
+    "species": "Crocodylus niloticus",
+    "id": "a66a0c8e-0585-487a-b777-c92e7c925258"
+  },
+  {
+    "date": "2022-12-27",
+    "species": "Spermophilus lateralis",
+    "id": "e18cc26f-098c-4de6-b37a-71d4cf831f6f"
+  },
+  {
+    "date": "2019-12-16",
+    "species": "Grus canadensis",
+    "id": "6efbbf44-e9a5-458c-bca5-6fd47cde82f8"
+  },
+  {
+    "date": "2019-11-05",
+    "species": "Diomedea irrorata",
+    "id": "6881d469-a7fb-4672-8b5e-50237987ca8e"
+  },
+  {
+    "date": "2018-02-13",
+    "species": "Pitangus sulphuratus",
+    "id": "a9fea1bc-1122-4948-a5a4-2563c7bb9e50"
+  },
+  {
+    "date": "2022-03-15",
+    "species": "Ursus americanus",
+    "id": "9db1724c-17e1-4610-a6a3-2f69c2061352"
+  },
+  {
+    "date": "2016-11-08",
+    "species": "Graspus graspus",
+    "id": "3c5a7e11-bf8c-4c27-8576-d944ae5f7b1d"
+  },
+  {
+    "date": "2021-04-06",
+    "species": "Merops sp.",
+    "id": "9257ed57-3851-413d-b224-391990d688d0"
+  },
+  {
+    "date": "2020-11-29",
+    "species": "Chloephaga melanoptera",
+    "id": "d551557e-4acd-4b4b-b002-b321ccce6e82"
+  },
+  {
+    "date": "2020-02-25",
+    "species": "Phalaropus fulicarius",
+    "id": "a1c207ff-0535-47f3-ba6c-9ad182ff1f50"
+  },
+  {
+    "date": "2022-04-02",
+    "species": "Funambulus pennati",
+    "id": "dbd6e19a-6a8c-49fc-9767-65da6b5e04c9"
+  },
+  {
+    "date": "2016-09-24",
+    "species": "Merops nubicus",
+    "id": "7d99f567-659b-4446-844f-dee75f54f56f"
+  },
+  {
+    "date": "2016-09-03",
+    "species": "Coluber constrictor",
+    "id": "3beda18f-08d3-42c3-a2c1-b9e27520529e"
+  },
+  {
+    "date": "2020-07-25",
+    "species": "Manouria emys",
+    "id": "10802c4b-29a7-4ed6-bae7-da84b0f85e03"
+  },
+  {
+    "date": "2019-07-01",
+    "species": "Mazama gouazoubira",
+    "id": "897d0d31-0c7c-4626-b6e1-c05027f9499b"
+  },
+  {
+    "date": "2023-04-03",
+    "species": "Kobus defassa",
+    "id": "4fdbc4b3-559b-4596-a09b-afa434060dac"
+  },
+  {
+    "date": "2023-02-20",
+    "species": "Ctenophorus ornatus",
+    "id": "1aa69d62-b33a-47aa-bcc2-6961adf1508c"
+  },
+  {
+    "date": "2018-07-10",
+    "species": "Trichoglossus haematodus moluccanus",
+    "id": "b4b8a2c9-e026-466e-808f-8ce8bb3576dd"
+  },
+  {
+    "date": "2016-05-04",
+    "species": "Cordylus giganteus",
+    "id": "d2cdf4c8-f75e-4177-98ac-389fcbc65a61"
+  },
+  {
+    "date": "2021-07-22",
+    "species": "Corvus albus",
+    "id": "db18fef2-bbff-4cfd-a887-b456e34bb3a7"
+  },
+  {
+    "date": "2021-02-17",
+    "species": "Callipepla gambelii",
+    "id": "a9ee9ad7-c1e5-49c5-8009-4f153f3b7a1d"
+  },
+  {
+    "date": "2022-01-16",
+    "species": "Spheniscus mendiculus",
+    "id": "4c80b894-0c11-48fa-9ca8-44092566444c"
+  },
+  {
+    "date": "2018-11-27",
+    "species": "Lama glama",
+    "id": "5411caa4-e637-4619-a3c7-d565d1bfaa74"
+  },
+  {
+    "date": "2016-08-21",
+    "species": "Paradoxurus hermaphroditus",
+    "id": "7b00c34f-16cc-48ed-b97e-d823ed8b0561"
+  },
+  {
+    "date": "2021-10-26",
+    "species": "Panthera tigris",
+    "id": "929be341-ea88-4ca9-951c-4e5e06c85718"
+  },
+  {
+    "date": "2018-09-24",
+    "species": "Rhea americana",
+    "id": "05e94d62-532d-439c-8d8b-0fd750fedc27"
+  },
+  {
+    "date": "2021-06-20",
+    "species": "Diomedea irrorata",
+    "id": "40be96de-0425-46ce-98eb-d378d96c1c9f"
+  },
+  {
+    "date": "2016-07-21",
+    "species": "Gymnorhina tibicen",
+    "id": "ae5cd21e-dc9b-4fe5-b997-3480064513db"
+  },
+  {
+    "date": "2022-01-01",
+    "species": "Cynictis penicillata",
+    "id": "c5507134-5053-4f45-ac34-138c130d81fd"
+  },
+  {
+    "date": "2020-09-24",
+    "species": "Phoca vitulina",
+    "id": "828fae7f-f2b1-4807-b8d1-c409e229cae6"
+  },
+  {
+    "date": "2018-07-18",
+    "species": "Ephippiorhynchus mycteria",
+    "id": "fd815e52-b921-4ddb-982f-fd60cdc3261b"
+  },
+  {
+    "date": "2020-11-05",
+    "species": "Connochaetus taurinus",
+    "id": "ce0e32f9-ad46-44fc-a933-4576504612b2"
+  },
+  {
+    "date": "2018-01-31",
+    "species": "Dasypus novemcinctus",
+    "id": "c28bb7e9-830c-4ace-a9af-f041420b3cb1"
+  },
+  {
+    "date": "2018-03-07",
+    "species": "Coluber constrictor foxii",
+    "id": "e9ac8739-8809-476b-94cd-3578ed95a5eb"
+  },
+  {
+    "date": "2017-08-16",
+    "species": "Laniaurius atrococcineus",
+    "id": "b70dd31a-8567-429e-b563-929139891cb5"
+  },
+  {
+    "date": "2020-07-29",
+    "species": "Rhea americana",
+    "id": "3a16ac45-7969-4dd6-b7bb-c9ba9787a4b6"
+  },
+  {
+    "date": "2018-12-02",
+    "species": "Paroaria gularis",
+    "id": "778d2063-d8d9-4bd0-8d8f-f19ca56f3fd5"
+  },
+  {
+    "date": "2022-11-21",
+    "species": "Galago crassicaudataus",
+    "id": "71863b1e-e980-4cb1-8258-52f9ac3bbdc0"
+  },
+  {
+    "date": "2015-02-06",
+    "species": "Gyps bengalensis",
+    "id": "1c3476dd-5a07-4dce-beff-49e164b69338"
+  },
+  {
+    "date": "2018-08-30",
+    "species": "Cordylus giganteus",
+    "id": "5c83292d-9899-4ccc-8985-a9e53d51cc24"
+  },
+  {
+    "date": "2020-01-16",
+    "species": "Haliaeetus leucoryphus",
+    "id": "ac91d081-633c-4118-92aa-70f84bb9a1ca"
+  },
+  {
+    "date": "2015-02-20",
+    "species": "Spermophilus richardsonii",
+    "id": "d9ecaff0-602c-43a3-9879-00f01d1e0f5c"
+  },
+  {
+    "date": "2018-12-05",
+    "species": "Cacatua tenuirostris",
+    "id": "42307f5b-8d1e-42fd-95e9-000f0a1db18c"
+  },
+  {
+    "date": "2021-02-12",
+    "species": "Bubo virginianus",
+    "id": "553f8bd8-ae8e-46f0-9168-b54e2bd9e17f"
+  },
+  {
+    "date": "2015-04-20",
+    "species": "Bubo virginianus",
+    "id": "3fc5f4cc-406b-4117-9483-af79b484c0ae"
+  },
+  {
+    "date": "2022-02-25",
+    "species": "Aonyx cinerea",
+    "id": "981fdacd-48d8-4117-b3a0-6e838c843489"
+  },
+  {
+    "date": "2016-11-01",
+    "species": "Phoenicopterus ruber",
+    "id": "75085f47-3649-405f-9a70-a5fe5ac6662b"
+  },
+  {
+    "date": "2019-06-19",
+    "species": "Buteo jamaicensis",
+    "id": "f9ccfb28-2d89-45a9-84bf-b83ea87fc5ed"
+  },
+  {
+    "date": "2017-06-02",
+    "species": "Tayassu pecari",
+    "id": "c4e6adb9-a723-41f9-be75-6bbbbec9cdf8"
+  },
+  {
+    "date": "2016-08-24",
+    "species": "Libellula quadrimaculata",
+    "id": "ed823f6a-57b1-41d6-82f3-74ab4cf71939"
+  },
+  {
+    "date": "2018-09-27",
+    "species": "Tapirus terrestris",
+    "id": "db253bd7-5195-4a8b-8b0c-d08c47b7c34e"
+  },
+  {
+    "date": "2020-03-08",
+    "species": "Martes americana",
+    "id": "ecbd2175-40b0-4922-8825-8eb4c278c2b4"
+  },
+  {
+    "date": "2016-12-20",
+    "species": "Macaca mulatta",
+    "id": "54e5afa8-bbc2-4b10-9bbe-d4789df8bce4"
+  },
+  {
+    "date": "2021-07-20",
+    "species": "Bubulcus ibis",
+    "id": "f88d4bde-90e3-4aca-863f-aba31d522dd9"
+  },
+  {
+    "date": "2015-10-20",
+    "species": "Dendrocitta vagabunda",
+    "id": "71be9eb4-292c-4954-803c-ebefbee0ce66"
+  },
+  {
+    "date": "2015-09-03",
+    "species": "Lama guanicoe",
+    "id": "dbe5e057-a2cf-43c4-a973-07ce944e5d0d"
+  },
+  {
+    "date": "2018-02-28",
+    "species": "Phoeniconaias minor",
+    "id": "96fab9a8-b5a1-4671-ae5b-bf2d470dacb9"
+  },
+  {
+    "date": "2021-09-09",
+    "species": "Myotis lucifugus",
+    "id": "12e70507-277a-4d37-8058-512436923ecb"
+  },
+  {
+    "date": "2015-07-10",
+    "species": "Dolichitus patagonum",
+    "id": "2dfab67b-368e-40d0-959d-e250c1dee23b"
+  },
+  {
+    "date": "2019-08-21",
+    "species": "Panthera pardus",
+    "id": "44c08248-428c-41fd-a49f-2c1f9f01b8a2"
+  },
+  {
+    "date": "2019-07-20",
+    "species": "Ara chloroptera",
+    "id": "6e7cc413-dffc-4276-aea6-34b8e6eab8d0"
+  },
+  {
+    "date": "2019-01-27",
+    "species": "Haliaeetus leucocephalus",
+    "id": "dafff9b1-a3b4-4082-90b5-d2daf21f357c"
+  },
+  {
+    "date": "2016-05-31",
+    "species": "Echimys chrysurus",
+    "id": "307ca189-ec9f-4a60-ad9a-2c2d0dca7f3c"
+  },
+  {
+    "date": "2015-11-08",
+    "species": "Bassariscus astutus",
+    "id": "76573153-fe68-48a9-ac2b-9bd528dbec69"
+  },
+  {
+    "date": "2017-04-11",
+    "species": "Rana sp.",
+    "id": "1f8d5a94-b958-45e1-8379-0a8adb4d3d7a"
+  },
+  {
+    "date": "2021-06-04",
+    "species": "Otaria flavescens",
+    "id": "c4b7a1a9-b555-44f3-b9b8-fd428c1764c4"
+  },
+  {
+    "date": "2020-01-11",
+    "species": "Porphyrio porphyrio",
+    "id": "2147f06d-7396-4350-ba46-8ff6e279f75e"
+  },
+  {
+    "date": "2015-05-16",
+    "species": "Limnocorax flavirostra",
+    "id": "00bb3182-36d5-4ac9-b5ed-2c51f88dbb4c"
+  },
+  {
+    "date": "2016-02-28",
+    "species": "Phoenicopterus ruber",
+    "id": "02cfcd5b-05f4-47a3-b634-c5d632ee414e"
+  },
+  {
+    "date": "2017-01-18",
+    "species": "Procyon lotor",
+    "id": "edd89798-8836-40e1-8d5f-6650c97c107a"
+  },
+  {
+    "date": "2017-10-13",
+    "species": "Pseudalopex gymnocercus",
+    "id": "f31b47c9-18f7-4792-8f3c-4887f47bbcdd"
+  },
+  {
+    "date": "2022-02-15",
+    "species": "Lamprotornis nitens",
+    "id": "af042a8a-e89d-43ee-96b9-0cbb75355194"
+  },
+  {
+    "date": "2021-06-06",
+    "species": "Creagrus furcatus",
+    "id": "7eda6d30-1dc7-4fb7-95a9-b8cf740823d1"
+  },
+  {
+    "date": "2020-03-27",
+    "species": "Hippotragus equinus",
+    "id": "83626814-5c1e-4569-b6de-5ea5b87d57e4"
+  },
+  {
+    "date": "2021-11-24",
+    "species": "Passer domesticus",
+    "id": "914254c2-5174-4efd-99c2-15773fcc358f"
+  },
+  {
+    "date": "2020-12-08",
+    "species": "Alopochen aegyptiacus",
+    "id": "be18bbce-b209-45d9-b112-7e69a91afd4e"
+  },
+  {
+    "date": "2015-02-28",
+    "species": "Felis wiedi or Leopardus weidi",
+    "id": "1a080849-59be-4c2f-9499-31779b26530d"
+  },
+  {
+    "date": "2016-12-04",
+    "species": "Acanthaster planci",
+    "id": "e14b7815-cce5-4c30-94ac-c7c9a48dc07d"
+  },
+  {
+    "date": "2019-01-09",
+    "species": "Bassariscus astutus",
+    "id": "e3a07e1a-8d34-472a-ac54-4a86faa9aa15"
+  },
+  {
+    "date": "2017-06-21",
+    "species": "Macropus robustus",
+    "id": "b3d542de-20e6-44bd-a9a9-e768d0b3024f"
+  },
+  {
+    "date": "2017-09-11",
+    "species": "Anthropoides paradisea",
+    "id": "09598665-167c-46ef-bcda-276f3928ad85"
+  },
+  {
+    "date": "2015-09-10",
+    "species": "Psittacula krameri",
+    "id": "6b6609f6-f13b-4f0c-bd6c-806413c2d6a1"
+  },
+  {
+    "date": "2018-02-21",
+    "species": "Thalasseus maximus",
+    "id": "90fed7f0-e695-4812-99fe-295f991fc5ea"
+  },
+  {
+    "date": "2021-07-23",
+    "species": "Macropus agilis",
+    "id": "4affedd6-81a8-43ba-b9ae-423fae6612da"
+  },
+  {
+    "date": "2020-12-14",
+    "species": "Neotoma sp.",
+    "id": "87cd966a-444b-48cc-840f-63119e294ba6"
+  },
+  {
+    "date": "2022-12-15",
+    "species": "Phoeniconaias minor",
+    "id": "878991a1-9bfb-4768-95a3-0493c1405402"
+  },
+  {
+    "date": "2019-08-25",
+    "species": "Dusicyon thous",
+    "id": "2f4e0d0a-67b0-45e7-922f-e0d0e253966e"
+  },
+  {
+    "date": "2019-04-30",
+    "species": "Paradoxurus hermaphroditus",
+    "id": "412987d9-8301-444a-8515-55e33bed6bee"
+  },
+  {
+    "date": "2017-07-10",
+    "species": "Tragelaphus strepsiceros",
+    "id": "aff32bd1-8a16-4226-a444-e93b8cd025ac"
+  },
+  {
+    "date": "2020-04-24",
+    "species": "Francolinus swainsonii",
+    "id": "4378358d-5ba3-459b-86b2-d88dca8b8a60"
+  },
+  {
+    "date": "2015-08-18",
+    "species": "Phalacrocorax varius",
+    "id": "53e1dc7e-3f21-42d5-b1ad-9f23b8b8f346"
+  },
+  {
+    "date": "2020-06-20",
+    "species": "Platalea leucordia",
+    "id": "abb46f76-b880-4115-8a92-5c379f382a52"
+  },
+  {
+    "date": "2020-10-06",
+    "species": "Macaca mulatta",
+    "id": "b929702d-1111-47f4-a5fa-8c21952a6077"
+  },
+  {
+    "date": "2015-05-26",
+    "species": "Dusicyon thous",
+    "id": "3963d9f3-0e77-4311-a3d0-9cbbe4c8092a"
+  },
+  {
+    "date": "2016-10-23",
+    "species": "Naja haje",
+    "id": "3a513297-3b7f-4cef-9a5c-7150715de9ed"
+  },
+  {
+    "date": "2017-01-09",
+    "species": "Sceloporus magister",
+    "id": "f7dc0d51-cbde-46b0-a1ab-f7719d1484a8"
+  },
+  {
+    "date": "2020-10-11",
+    "species": "Sterna paradisaea",
+    "id": "50941f3e-e589-48b9-b6f7-1dcd4dae33ee"
+  },
+  {
+    "date": "2021-12-21",
+    "species": "Junonia genoveua",
+    "id": "004bef24-777c-44c2-93a1-ba51178d6723"
+  },
+  {
+    "date": "2022-01-03",
+    "species": "Calyptorhynchus magnificus",
+    "id": "34adf228-c256-426f-a78d-c5e1e1a3cc4c"
+  },
+  {
+    "date": "2016-06-03",
+    "species": "Francolinus leucoscepus",
+    "id": "fd855f0f-a70d-41e1-8283-64168dd57bdc"
+  },
+  {
+    "date": "2018-09-07",
+    "species": "Phascogale calura",
+    "id": "2e99db76-c6c2-4b97-b89c-c9546b75ff49"
+  },
+  {
+    "id": "605e62e8-b4ac-44de-abbb-9887b00f543e",
+    "species": "Falco tinnunculus",
+    "date": "2024-05-28"
+  },
+  {
+    "id": "399d1431-a62a-44da-8e33-cfe9a2c33b30",
+    "species": "Falco tinnunculus",
+    "date": "2024-05-30"
+  }
+]
